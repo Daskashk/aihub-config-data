@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "ai_services": [
     [
       "ChatGPT",
@@ -159,7 +159,7 @@
       "PLLuM",
       "https://pllum.clarin-pl.eu/",
       "Language",
-      "Processes and generates text in Polish",
+      "Polish language model",
       "FFDC143C"
     ]
   ]
