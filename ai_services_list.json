@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -154,6 +154,13 @@
       "Productivity",
       "Productivity AI assistant",
       "FFCDDC39"
+    ],
+    [
+      "PLLuM",
+      "https://pllum.clarin-pl.eu/",
+      "Language-Specific",
+      "Processes and generates text in Polish",
+      "FFDC143C"
     ]
   ]
 }
