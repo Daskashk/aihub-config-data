@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -123,6 +123,7 @@
     ]
   },
   "common_auth_domains": [
+    "gstatic.com",
     "accounts.google.com",
     "appleid.apple.com",
     "www.apple.com",
