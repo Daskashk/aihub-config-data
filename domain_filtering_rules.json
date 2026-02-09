@@ -102,6 +102,9 @@
     "pllum": [
       "pllum.clarin-pl.eu",
       "sso.e-science.pl"
+    ],
+    "gpai": [
+      "gpai.app"
     ]
   },
   "always_blocked_domains": {
