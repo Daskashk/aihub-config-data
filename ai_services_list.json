@@ -88,92 +88,92 @@
     [
       "Copilot",
       "https://copilot.microsoft.com/",
-      "Productivity",
-      "Microsoft 365 integration",
+      "Free",
+      "No-privacy focused",
       "FF0078D4"
     ],
     [
       "Brave",
       "https://search.brave.com/ask",
-      "Search",
-      "Privacy-focused searching",
+      "Free",
+      "Privacy focused",
       "FF198038"
     ],
     [
       "HuggingFace",
       "https://huggingface.co/chat",
-      "Open-Source",
-      "Open model experimentation",
+      "Freemium",
+      "Privacy focused",
       "FFFFD600"
     ],
     [
       "Meta AI",
       "https://www.meta.ai/",
-      "Social",
-      "Social platform integration",
+      "Free",
+      "No-privacy focused",
       "FF0081FB"
     ],
     [
       "Euria",
       "https://euria.infomaniak.com/",
-      "Privacy",
-      "Swiss privacy assistant",
+      "Free",
+      "Privacy focused",
       "FF0D47A1"
     ],
     [
       "Z.ai",
       "https://chat.z.ai/",
-      "Social",
-      "Social AI assistant",
+      "Free",
+      "No-privacy focused",
       "FF8E24AA"
     ],
     [
       "H2O GPTe",
       "https://h2ogpte.genai.h2o.ai/",
-      "Data-Science",
-      "Enterprise AI platform",
+      "Freemium",
+      "Privacy focused",
       "FF00695C"
     ],
     [
       "Dola",
       "https://www.dola.com/chat",
-      "General",
-      "Conversation assistant",
+      "Free",
+      "No-privacy focused",
       "FF009688"
     ],
     [
       "Khoj",
       "https://app.khoj.dev/?v=app",
       "Freemium",
-      "Privacy center",
+      "Privacy focused",
       "FFFF9800"
     ],
     [
       "Consensus",
       "https://consensus.app/",
       "Free",
-      "No-privacy center",
+      "No-privacy focused",
       "FFCDDC39"
     ],
     [
       "PLLuM",
       "https://pllum.clarin-pl.eu/",
       "Free",
-      "No-privacy center",
+      "No-privacy focused",
       "FF8E51FF"
     ],
     [
       "GPai",
       "https://gpai.app/",
       "Freemium",
-      "No-privacy center",
+      "No-privacy focused",
       "FF69B4D4"
     ],
     [
      "Public AI",
      "https://publicai.co/chat",
      "Free",
-     "Privacy center",
+     "Privacy focused",
      "FFB2C36"
   ]
 }
