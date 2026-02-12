@@ -144,36 +144,36 @@
     [
       "Khoj",
       "https://app.khoj.dev/?v=app",
-      "Productivity",
-      "Personal AI assistant",
+      "Freemium",
+      "Privacy center",
       "FFFF9800"
     ],
     [
       "Consensus",
       "https://consensus.app/",
-      "Productivity",
-      "Productivity AI assistant",
+      "Free",
+      "No-privacy center",
       "FFCDDC39"
     ],
     [
       "PLLuM",
       "https://pllum.clarin-pl.eu/",
-      "Language",
-      "Polish language model",
-      "FFDC143C"
+      "Free",
+      "No-privacy center",
+      "FF8E51FF"
     ],
     [
       "GPai",
       "https://gpai.app/",
-      "Tutor",
-      "STEM solution provider",
+      "Freemium",
+      "No-privacy center",
       "FF69B4D4"
     ],
     [
-  "Public AI",
-  "https://publicai.co/chat",
-  "by Public AI Inference Utility",
-  "Sovereign AI initiative powered by Apertium",
-  "FFB2C36"
+     "Public AI",
+     "https://publicai.co/chat",
+     "Free",
+     "Privacy center",
+     "FFB2C36"
   ]
 }
