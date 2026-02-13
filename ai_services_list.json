@@ -1,94 +1,94 @@
 {
-  "version": "1.3.0",
+  "version": "2.0",
   "ai_services": [
     [
       "ChatGPT",
       "https://chatgpt.com/",
-      "Multimodal",
-      "Versatile fast assistant",
+      "Freemium",
+      "No-privacy focused",
       "FF10A37F"
     ],
     [
       "Duck AI",
       "https://duck.ai/",
-      "Anonymous",
-      "Privacy-first conversations",
+      "Freemium",
+      "Privacy focused",
       "FF8B7355"
     ],
     [
       "Venice",
       "https://venice.ai/chat",
-      "Creative",
-      "Multimedia creative assistant",
+      "Freemium",
+      "Privacy focused",
       "FF9C27B0"
     ],
     [
       "Grok",
       "https://grok.com/",
-      "Reasoning",
-      "Humorous reasoning assistant",
+      "Freemium",
+      "No-privacy focused",
       "FFE91E63"
     ],
     [
       "Lumo",
       "https://lumo.proton.me/",
-      "Secure",
-      "Encrypted privacy assistant",
+      "Freemium",
+      "Privacy focused",
       "FF2196F3"
     ],
     [
       "Deepseek",
       "https://chat.deepseek.com/",
-      "Coding",
-      "Code generation specialist",
+      "Free",
+      "No-privacy focused",
       "FF00ACC1"
     ],
     [
       "Gemini",
       "https://gemini.google.com/",
-      "Integrated",
-      "Google ecosystem assistant",
+      "Freemium",
+      "No-privacy focused",
       "FF4285F4"
     ],
     [
       "Claude",
       "https://claude.ai/chat",
-      "Analytical",
-      "Long-form content expert",
+      "Paid",
+      "No-privacy focused",
       "FF673AB7"
     ],
     [
       "Perplexity",
       "https://www.perplexity.ai/",
-      "Research",
-      "Citation-based search engine",
+      "Freemium",
+      "No-privacy focused",
       "FF00AB97"
     ],
     [
       "Qwen",
       "https://chat.qwen.ai/",
-      "Multilingual",
-      "Supports many languages",
+      "Free",
+      "No-privacy focused",
       "FFFF6D00"
     ],
     [
       "Mistral",
       "https://chat.mistral.ai/",
-      "Efficient",
-      "Fast reasoning model",
+      "Freemium",
+      "No-privacy focused",
       "FF3F51B5"
     ],
     [
       "Blackbox",
       "https://app.blackbox.ai/",
-      "Coding",
-      "Code optimization assistant",
+      "Freemium",
+      "No-privacy focused",
       "FFFF5722"
     ],
     [
       "Copilot",
       "https://copilot.microsoft.com/",
-      "Free",
+      "Freemium",
       "No-privacy focused",
       "FF0078D4"
     ],
@@ -116,7 +116,7 @@
     [
       "Euria",
       "https://euria.infomaniak.com/",
-      "Free",
+      "Freemium",
       "Privacy focused",
       "FF0D47A1"
     ],
@@ -174,6 +174,6 @@
      "https://publicai.co/chat",
      "Free",
      "Privacy focused",
-     "FFB2C36"
+     "FFFB2C36"
   ]
 }
