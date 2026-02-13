@@ -105,6 +105,9 @@
     ],
     "gpai": [
       "gpai.app"
+    ],
+    "publicai": [
+      "publicai.co"
     ]
   },
   "always_blocked_domains": {
