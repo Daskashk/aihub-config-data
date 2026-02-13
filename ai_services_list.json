@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
+  "version": "2.1.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -175,6 +175,13 @@
      "Free",
      "Privacy focused",
      "FFFB2C36"
+    ],
+    [
+      "Arena",
+      "https://arena.ai",
+      "Free",
+      "No-privacy focused",
+      "FF4CAF50"
     ]
   ]
 }

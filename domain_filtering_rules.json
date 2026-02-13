@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -108,6 +108,9 @@
     ],
     "publicai": [
       "publicai.co"
+    ],
+    "arena": [
+      "arena.ai"
     ]
   },
   "always_blocked_domains": {
