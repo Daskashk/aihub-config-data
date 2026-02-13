@@ -107,9 +107,7 @@
       "gpai.app"
     ],
     "publicai": [
-      "publicai.co",
-      "chat.publicai.co",
-      "auth.publicai.co"
+      "publicai.co"
     ]
   },
   "always_blocked_domains": {
