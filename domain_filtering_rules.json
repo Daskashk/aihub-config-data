@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.6.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -112,6 +112,9 @@
     "arena": [
       "arena.ai",
       "google.com"
+    ],
+    "openrouterchat": [
+      "openrouter.ai"
     ]
   },
   "always_blocked_domains": {
