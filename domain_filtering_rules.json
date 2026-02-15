@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -117,7 +117,7 @@
       "openrouter.ai",
       "img.clerk.com"
     ],
-    "miromind-ai": [
+    "miromindai": [
       "dr.miromind.ai"
     ]
   },
