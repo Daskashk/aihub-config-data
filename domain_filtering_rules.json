@@ -1,5 +1,5 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -124,7 +124,7 @@
     "youai": [
       "you.com",
       "descopecdn.com",
-      "osano.com"
+      "events.launchdarkly.com"
     ]
   },
   "always_blocked_domains": {
