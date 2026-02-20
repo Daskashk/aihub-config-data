@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -196,6 +196,13 @@
       "Free",
       "No-privacy focused",
       "FF02C0AC"
+    ],
+    [
+      "YouAI",
+      "https://you.com/?tbm=youchat&fromSearchBar=true&chatMode=default",
+      "Freemium",
+      "Privacy focused",
+      "FF9E9E9E"
     ]
   ]
 }
