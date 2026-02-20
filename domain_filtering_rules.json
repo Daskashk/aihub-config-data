@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -122,7 +122,8 @@
       "dr.miromind.ai"
     ],
     "youai": [
-      "you.com"
+      "you.com",
+      "descopecdn.com"
     ]
   },
   "always_blocked_domains": {
