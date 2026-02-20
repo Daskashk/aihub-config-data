@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -36,7 +36,8 @@
       "www.gstatic.com"
     ],
     "claude": [
-      "claude.ai"
+      "claude.ai",
+      "assets-proxy.anthropic.com"
     ],
     "perplexity": [
       "perplexity.ai"
