@@ -1,5 +1,5 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.6",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -19,6 +19,7 @@
     ],
     "grok": [
       "grok.com",
+      "x.com",
       "imagine-public.x.ai",
       "accounts.x.ai",
       "auth.grokipedia.com"
