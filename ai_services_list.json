@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
+  "version": "3.0.0",
   "ai_services": [
     [
       "ChatGPT",
       "https://chatgpt.com/",
       "Freemium",
-      "No-privacy focused",
+      "Not for privacy",
       "FF10A37F"
     ],
     [
@@ -26,7 +26,7 @@
       "Grok",
       "https://grok.com/",
       "Freemium",
-      "No-privacy focused",
+      "Not for privacy",
       "FFE91E63"
     ],
     [
@@ -40,56 +40,56 @@
       "Deepseek",
       "https://chat.deepseek.com/",
       "Free",
-      "No-privacy focused",
+      "Not for privacy",
       "FF00ACC1"
     ],
     [
       "Gemini",
       "https://gemini.google.com/",
       "Freemium",
-      "No-privacy focused",
+      "Not for privacy",
       "FF4285F4"
     ],
     [
       "Claude",
       "https://claude.ai/chat",
       "Paid",
-      "No-privacy focused",
+      "Not for privacy",
       "FF673AB7"
     ],
     [
       "Perplexity",
       "https://www.perplexity.ai/",
       "Freemium",
-      "No-privacy focused",
+      "Not for privacy",
       "FF00AB97"
     ],
     [
       "Qwen",
       "https://chat.qwen.ai/",
       "Free",
-      "No-privacy focused",
+      "Not for privacy",
       "FFFF6D00"
     ],
     [
       "Mistral",
       "https://chat.mistral.ai/",
       "Freemium",
-      "No-privacy focused",
+      "Privacy friendly",
       "FF3F51B5"
     ],
     [
       "Blackbox",
       "https://app.blackbox.ai/",
       "Freemium",
-      "No-privacy focused",
+      "Not for privacy",
       "FFFF5722"
     ],
     [
       "Copilot",
       "https://copilot.microsoft.com/",
       "Freemium",
-      "No-privacy focused",
+      "Not for privacy",
       "FF0078D4"
     ],
     [
@@ -103,14 +103,14 @@
       "HuggingFace",
       "https://huggingface.co/chat",
       "Freemium",
-      "Privacy focused",
+      "Privacy friendly",
       "FFFFD600"
     ],
     [
       "Meta AI",
       "https://www.meta.ai/",
       "Free",
-      "No-privacy focused",
+      "Not for privacy",
       "FF0081FB"
     ],
     [
@@ -124,21 +124,21 @@
       "Z.ai",
       "https://chat.z.ai/",
       "Free",
-      "No-privacy focused",
+      "Not for privacy",
       "FF8E24AA"
     ],
     [
       "H2O GPTe",
       "https://h2ogpte.genai.h2o.ai/",
       "Freemium",
-      "Privacy focused",
+      "Privacy friendly",
       "FF00695C"
     ],
     [
       "Dola",
       "https://www.dola.com/chat",
       "Free",
-      "No-privacy focused",
+      "Not for privacy",
       "FF009688"
     ],
     [
@@ -152,21 +152,21 @@
       "Consensus",
       "https://consensus.app/",
       "Free",
-      "No-privacy focused",
+      "Not for privacy",
       "FFCDDC39"
     ],
     [
       "PLLuM",
       "https://pllum.clarin-pl.eu/",
       "Free",
-      "No-privacy focused",
+      "Not for privacy",
       "FF8E51FF"
     ],
     [
       "GPai",
       "https://gpai.app/",
       "Freemium",
-      "No-privacy focused",
+      "Not for privacy",
       "FF69B4D4"
     ],
     [
@@ -180,7 +180,7 @@
       "Arena",
       "https://arena.ai",
       "Free",
-      "No-privacy focused",
+      "Not for privacy",
       "FF4CAF50"
     ],
     [
@@ -194,15 +194,36 @@
       "MiroMind AI",
       "https://dr.miromind.ai/",
       "Free",
-      "No-privacy focused",
+      "Privacy friendly",
       "FF02C0AC"
     ],
     [
       "YouAI",
       "https://you.com/?tbm=youchat&fromSearchBar=true&chatMode=default",
       "Freemium",
-      "Privacy focused",
+      "Privacy friendly",
       "FF9E9E9E"
+    ],
+    [
+      "Together AI Chat",
+      "https://chat.together.ai/",
+      "Freemium",
+      "Privacy friendly",
+      "FFDEECFF"
+    ],
+    [
+      "secAI",
+      "https://i.secai.ai/chat",
+      "Freemium",
+      "Not for privacy",
+      "FFF5454B"
+    ],
+    [
+      "Mammouth AI",
+      "https://mammouth.ai/",
+      "Paid",
+      "Privacy focused",
+      "FFF5454B"
     ]
   ]
 }
