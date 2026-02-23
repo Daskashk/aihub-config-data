@@ -125,6 +125,15 @@
     "youai": [
       "you.com",
       "descopecdn.com"
+    ],
+    "togetherai": [
+      "together.ai"
+    ],
+    "secai": [
+      "secai.ai"
+    ],
+    "mammouthai": [
+      "mammouth.ai"
     ]
   },
   "always_blocked_domains": {
@@ -156,7 +165,8 @@
     "aadcdn.msauth.net",
     "aadcdn.msftauth.net",
     "github.githubassets.com",
-    "challenges.cloudflare.com"
+    "challenges.cloudflare.com",
+    "recaptcha.net"
   ],
   "tracking_params": [
     "utm_source",
