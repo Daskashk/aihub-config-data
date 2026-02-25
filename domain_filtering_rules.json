@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -126,7 +126,7 @@
       "you.com",
       "descopecdn.com"
     ],
-    "togetheraichat": [
+    "togetherai": [
       "together.ai"
     ],
     "secai": [
