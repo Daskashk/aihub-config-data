@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "ai_services": [
     [
       "ChatGPT",
@@ -205,7 +205,7 @@
       "FF9E9E9E"
     ],
     [
-      "Together AI Chat",
+      "Together AI",
       "https://chat.together.ai/",
       "Freemium",
       "Privacy friendly",
