@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
+  "version": "3.0.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -32,15 +32,12 @@
       "deepseek.com"
     ],
     "gemini": [
-      "gemini.google.com",
-      "fonts.gstatic.com",
-      "www.gstatic.com"
+      "gemini.google.com"
     ],
      "googleaistudio": [
       "aistudio.google.com",
-      "fonts.gstatic.com",
-      "www.gstatic.com",
-      "apis.google.com"
+      "apis.google.com",
+      "gds.google.com"
     ],
     "claude": [
       "claude.ai",
