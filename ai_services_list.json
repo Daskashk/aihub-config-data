@@ -1,5 +1,5 @@
 {
-  "version": "3.1.1",
+  "version": "3.2.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -49,6 +49,13 @@
       "Freemium",
       "Not for privacy",
       "FF4285F4"
+    ],
+    [  
+      "Google Ai Studio",
+      "https://aistudio.google.com/",
+      "Freemium",
+      "Not for privacy",
+      "FFFCFCFC"
     ],
     [
       "Claude",
