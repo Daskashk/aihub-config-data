@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0",
+  "version": "3.3.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -238,6 +238,13 @@
       "Free",
       "Privacy focused",
       "FF4B4B3D"
+    ],
+    [
+      "Kimi",
+      "https://www.kimi.com/",
+      "Freemium",
+      "Not for privacy",
+      "FF020101"
     ]
   ]
 }
