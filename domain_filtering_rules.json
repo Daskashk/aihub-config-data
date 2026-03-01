@@ -180,7 +180,8 @@
     "aadcdn.msftauth.net",
     "github.githubassets.com",
     "challenges.cloudflare.com",
-    "recaptcha.net"
+    "recaptcha.net",
+    "github.com"
   ],
   "tracking_params": [
     "utm_source",
