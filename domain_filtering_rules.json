@@ -1,5 +1,5 @@
 {
-  "version": "3.1.1",
+  "version": "3.2.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -34,7 +34,7 @@
     "gemini": [
       "gemini.google.com"
     ],
-     "googleaistudio": [
+    "googleaistudio": [
       "aistudio.google.com",
       "apis.google.com",
       "gds.google.com"
@@ -144,6 +144,9 @@
     "kimi": [
       "kimi.com",
       "moonshot.cn"
+    ],
+    "indus": [
+      "sarvam.ai"
     ]
   },
   "always_blocked_domains": {

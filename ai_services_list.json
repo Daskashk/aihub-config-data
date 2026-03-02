@@ -1,5 +1,5 @@
 {
-  "version": "3.3.1",
+  "version": "3.4.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -50,7 +50,7 @@
       "Not for privacy",
       "FF4285F4"
     ],
-    [  
+    [
       "Google Ai Studio",
       "https://aistudio.google.com/",
       "Freemium",
@@ -245,6 +245,13 @@
       "Freemium",
       "Not for privacy",
       "FFB0E0F0"
+    ],
+    [
+      "Indus",
+      "https://indus.sarvam.ai/",
+      "Free",
+      "Privacy friendly",
+      "FF5F211D"
     ]
   ]
 }
