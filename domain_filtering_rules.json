@@ -152,6 +152,9 @@
       "poe.com",
       "psc2.cf2.poecdn.net",
       "cdn.cookielaw.org"
+    ],
+    "paperguideai": [
+    "paperguide.ai"
     ]
   },
   "always_blocked_domains": {
