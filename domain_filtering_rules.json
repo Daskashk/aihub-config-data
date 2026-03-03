@@ -158,6 +158,14 @@
     ],
     "elicit": [
       "elicit.com"
+    ],
+    "elicit": [
+      "elicit.com"
+    ],
+    "scispaceai": [
+      "scispace.com",
+      "token.awswaf.com",
+      "d5a9y5rnan99s.cloudfront.net"
     ]
   },
   "always_blocked_domains": {
