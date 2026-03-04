@@ -188,6 +188,9 @@
     ],
     "perplexity": [
       "suggest.perplexity.ai"
+    ],
+    "deepseek":[
+      "hif-dliq.deepseek.com"
     ]
   },
   "common_auth_domains": [
