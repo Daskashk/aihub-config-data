@@ -166,6 +166,11 @@
       "scispace.com",
       "token.awswaf.com",
       "d5a9y5rnan99s.cloudfront.net"
+    ],
+    "gensparkai": [
+      "genspark.ai",
+      "logincdn.msauth.net",
+      "logincdn.msftauth.net"
     ]
   },
   "always_blocked_domains": {
