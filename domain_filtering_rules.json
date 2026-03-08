@@ -154,7 +154,7 @@
       "cdn.cookielaw.org"
     ],
     "paperguideai": [
-    "paperguide.ai"
+      "paperguide.ai"
     ],
     "elicit": [
       "elicit.com"
@@ -171,7 +171,10 @@
       "genspark.ai",
       "logincdn.msauth.net",
       "logincdn.msftauth.net"
-    ]
+    ],
+    "10bai": [
+      "10b.ai",
+    ],
   },
   "always_blocked_domains": {
     "chatgpt": [
