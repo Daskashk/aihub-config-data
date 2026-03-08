@@ -281,19 +281,40 @@
       "Not for privacy",
       "FFF54900"
     ],
-        [
+    [
       "Genspark AI",
       "https://www.genspark.ai",
       "Freemium",
       "Not for privacy",
-      "FFF4BA9D"
+      "FFF7F7F7"
+    ],
+    [
+      "10b AI",
+      "https://10b.ai/",
+      "Paid",
+      "Privacy friendly",
+      "FF081826"
     ],
         [
-      "Indus",
-      "https://indus.sarvam.ai/",
-      "Free",
+      "10b AI",
+      "https://10b.ai/",
+      "Paid",
       "Privacy friendly",
-      "FF5F211D"
+      "FF081826"
+    ],
+        [
+      "10b AI",
+      "https://10b.ai/",
+      "Paid",
+      "Privacy friendly",
+      "FF081826"
+    ],
+        [
+      "10b AI",
+      "https://10b.ai/",
+      "Paid",
+      "Privacy friendly",
+      "FF081826"
     ],
   ]
 }
