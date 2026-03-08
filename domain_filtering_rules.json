@@ -175,6 +175,10 @@
     "10bai": [
       "10b.ai",
     ],
+    "manus": [
+      "manus.im",
+      "files.manuscdn.com",
+    ],
   },
   "always_blocked_domains": {
     "chatgpt": [
@@ -199,7 +203,9 @@
     ],
     "deepseek":[
       "hif-dliq.deepseek.com"
-    ]
+    ].
+    "manus":[
+      "metrics.manus.im"
   },
   "common_auth_domains": [
     "gstatic.com",
