@@ -1,5 +1,5 @@
 {
-  "version": "3.4.0",
+  "version": "4.0.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -219,7 +219,7 @@
       "FFDEECFF"
     ],
     [
-      "secAI",
+      "SecAI",
       "https://i.secai.ai/chat",
       "Freemium",
       "Not for privacy",
@@ -252,6 +252,62 @@
       "Free",
       "Privacy friendly",
       "FF5F211D"
+    ],
+    [
+      "Poe",
+      "https://poe.com/",
+      "Freemium",
+      "Not for privacy",
+      "FF413FA9"
+    ],
+    [
+      "Paperguide AI",
+      "https://paperguide.ai/ ",
+      "Freemium",
+      "Not for privacy",
+      "FFFF864F"
+    ],
+    [
+      "Elicit",
+      "https://elicit.com/",
+      "Freemium",
+      "Privacy friendly",
+      "FF13707C"
+    ],
+    [
+      "SciSpace AI",
+      "https://scispace.com/",
+      "Free",
+      "Not for privacy",
+      "FFF54900"
+    ],
+    [
+      "Genspark AI",
+      "https://www.genspark.ai",
+      "Freemium",
+      "Not for privacy",
+      "FFF7F7F7"
+    ],
+    [
+      "10b AI",
+      "https://10b.ai/",
+      "Paid",
+      "Privacy friendly",
+      "FF081826"
+    ],
+    [
+      "Manus",
+      "https://manus.im/",
+      "Freemium",
+      "Not for privacy",
+      "FFD2ACAD"
+    ],
+    [
+      "Character AI",
+      "https://character.ai/",
+      "Freemium",
+      "Not for privacy",
+      "FF305893"
     ]
   ]
 }

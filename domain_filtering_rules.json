@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0",
+  "version": "4.0.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -35,9 +35,8 @@
       "gemini.google.com"
     ],
     "googleaistudio": [
-      "aistudio.google.com",
-      "apis.google.com",
-      "gds.google.com"
+      "google.com",
+      "fonts.googleapis.com"
     ],
     "claude": [
       "claude.ai",
@@ -147,6 +146,42 @@
     ],
     "indus": [
       "sarvam.ai"
+    ],
+    "poe": [
+      "poe.com",
+      "psc2.cf2.poecdn.net",
+      "cdn.cookielaw.org"
+    ],
+    "paperguideai": [
+      "paperguide.ai"
+    ],
+    "elicit": [
+      "elicit.com"
+    ],
+    "scispaceai": [
+      "scispace.com",
+      "token.awswaf.com",
+      "d5a9y5rnan99s.cloudfront.net"
+    ],
+    "gensparkai": [
+      "genspark.ai",
+      "logincdn.msauth.net",
+      "logincdn.msftauth.net"
+    ],
+    "10bai": [
+      "10b.ai"
+    ],
+    "manus": [
+      "manus.im",
+      "files.manuscdn.com"
+    ],
+    "characterai": [
+      "character.ai",
+      "apis.google.com",
+      "cloudflare-dns.com",
+      "statsigapi.net",
+      "www.google.com",
+      "www.googleapis.com"
     ]
   },
   "always_blocked_domains": {
@@ -169,6 +204,15 @@
     ],
     "perplexity": [
       "suggest.perplexity.ai"
+    ],
+    "deepseek": [
+      "hif-dliq.deepseek.com"
+    ],
+    "manus": [
+      "metrics.manus.im"
+    ],
+    "characterai": [
+      "events.character.ai"
     ]
   },
   "common_auth_domains": [
