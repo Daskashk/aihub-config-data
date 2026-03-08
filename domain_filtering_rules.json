@@ -35,9 +35,8 @@
       "gemini.google.com"
     ],
     "googleaistudio": [
-      "aistudio.google.com",
-      "apis.google.com",
-      "gds.google.com"
+      "google.com",
+      "fonts.googleapis.com"
     ],
     "claude": [
       "claude.ai",
