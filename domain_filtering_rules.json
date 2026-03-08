@@ -179,6 +179,14 @@
       "manus.im",
       "files.manuscdn.com",
     ],
+    "characterai": [
+      "character.ai",
+      "apis.google.com",
+      "cloudflare-dns.com",
+      "statsigapi.net",
+      "www.google.com",
+      "www.googleapis.com"
+    ]
   },
   "always_blocked_domains": {
     "chatgpt": [
@@ -201,11 +209,12 @@
     "perplexity": [
       "suggest.perplexity.ai"
     ],
-    "deepseek":[
+    "deepseek": [
       "hif-dliq.deepseek.com"
     ].
-    "manus":[
+    "manus": [
       "metrics.manus.im"
+    ]
   },
   "common_auth_domains": [
     "gstatic.com",
