@@ -177,7 +177,7 @@
     ],
     "manus": [
       "manus.im",
-      "files.manuscdn.com",
+      "files.manuscdn.com"
     ],
     "characterai": [
       "character.ai",
@@ -211,9 +211,12 @@
     ],
     "deepseek": [
       "hif-dliq.deepseek.com"
-    ].
+    ],
     "manus": [
       "metrics.manus.im"
+    ],
+    "characterai": [
+      "events.character.ai"
     ]
   },
   "common_auth_domains": [
