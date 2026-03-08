@@ -298,23 +298,16 @@
     [
       "manus",
       "https://manus.im/",
-      "Paid",
+      "Freemium",
       "Not for privacy",
       "FFD2ACAD"
     ],
-        [
-      "10b AI",
-      "https://10b.ai/",
-      "Paid",
-      "Privacy friendly",
-      "FF081826"
-    ],
-        [
-      "10b AI",
-      "https://10b.ai/",
-      "Paid",
-      "Privacy friendly",
-      "FF081826"
-    ],
+    [
+      "Character AI",
+      "https://character.ai/",
+      "Freemium",
+      "Not for privacy",
+      "FF305893"
+    ]
   ]
 }
