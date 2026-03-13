@@ -10,13 +10,16 @@
       "auth.openai.com",
       "oaistatic.com"
     ],
+    
     "duckai": [
       "duck.ai",
       "duckduckgo.com"
     ],
+    
     "venice": [
       "venice.ai"
     ],
+    
     "grok": [
       "grok.com",
       "x.com",
@@ -24,27 +27,36 @@
       "accounts.x.ai",
       "auth.grokipedia.com"
     ],
+    
     "lumo": [
       "lumo.proton.me",
       "account.proton.me"
     ],
+    
     "deepseek": [
       "deepseek.com"
     ],
+    
     "gemini": [
       "gemini.google.com"
     ],
+    
     "googleaistudio": [
       "google.com",
       "fonts.googleapis.com"
     ],
+    
     "claude": [
       "claude.ai",
-      "assets-proxy.anthropic.com"
+      "assets-proxy.anthropic.com",
+      "s-cdn.anthropic.com",
+      "a-cdn.anthropic.com"      
     ],
+    
     "perplexity": [
       "perplexity.ai"
     ],
+    
     "qwen": [
       "qwen.ai",
       "alicdn.com",
@@ -53,128 +65,161 @@
       "tdum.alibaba.com",
       "sg-wum.alibaba.com"
     ],
+    
     "mistral": [
       "mistral.ai",
       "mistralcdn.net"
     ],
+    
     "blackbox": [
       "app.blackbox.ai",
       "js.stripe.com",
       "m.stripe.network"
     ],
+    
     "copilot": [
       "copilot.microsoft.com"
     ],
+    
     "brave": [
       "brave.com"
     ],
+    
     "huggingface": [
       "huggingface.co",
       "token.awswaf.com"
     ],
+    
     "metaai": [
       "meta.ai",
       "static.xx.fbcdn.net",
       "video.fdel64-1.fna.fbcdn.net"
     ],
+    
     "euria": [
       "infomaniak.com"
     ],
+    
     "z.ai": [
       "chat.z.ai",
       "z-cdn.chatglm.cn"
     ],
+    
     "h2ogpte": [
       "h2ogpte.genai.h2o.ai",
       "ok10static.oktacdn.com",
       "op3static.oktacdn.com",
       "id.public.h2o.ai"
     ],
+    
     "dola": [
       "www.dola.com",
       "ciciaicdn.com",
       "ciciai.com",
       "yhgfb-static.com"
     ],
+    
     "khoj": [
       "khoj.dev",
       "khoj.auth0.com"
     ],
+    
     "consensus": [
       "consensus.app"
     ],
+    
     "pllum": [
       "pllum.clarin-pl.eu",
       "sso.e-science.pl"
     ],
+    
     "gpai": [
       "gpai.app"
     ],
+    
     "publicai": [
       "publicai.co"
     ],
+    
     "arena": [
       "arena.ai",
       "google.com"
     ],
+    
     "openrouterchat": [
       "openrouter.ai",
       "img.clerk.com"
     ],
+    
     "miromindai": [
       "dr.miromind.ai"
     ],
+    
     "youai": [
       "you.com",
       "descopecdn.com"
     ],
+    
     "togetherai": [
       "together.ai"
     ],
+    
     "secai": [
       "secai.ai"
     ],
+    
     "mammouthai": [
       "mammouth.ai"
     ],
+    
     "turboseek": [
       "turboseek.io"
     ],
+    
     "kimi": [
       "kimi.com",
       "moonshot.cn"
     ],
+    
     "indus": [
       "sarvam.ai"
     ],
+    
     "poe": [
       "poe.com",
       "psc2.cf2.poecdn.net",
       "cdn.cookielaw.org"
     ],
+    
     "paperguideai": [
       "paperguide.ai"
     ],
+    
     "elicit": [
       "elicit.com"
     ],
+    
     "scispaceai": [
       "scispace.com",
       "token.awswaf.com",
       "d5a9y5rnan99s.cloudfront.net"
     ],
+    
     "gensparkai": [
       "genspark.ai",
       "logincdn.msauth.net",
       "logincdn.msftauth.net"
     ],
+    
     "10bai": [
       "10b.ai"
     ],
+    
     "manus": [
       "manus.im",
       "files.manuscdn.com"
     ],
+    
     "characterai": [
       "character.ai",
       "apis.google.com",
@@ -183,37 +228,49 @@
       "www.google.com",
       "www.googleapis.com"
     ]
+
+    
   },
   "always_blocked_domains": {
     "chatgpt": [
       "ab.chatgpt.com"
     ],
+    
     "duck": [
       "improving.duckduckgo.com"
     ],
+    
     "grok": [
       "www.google-analytics.com"
     ],
+    
     "gemini": [
       "www.google-analytics.com",
       "www.googletagmanager.com"
     ],
+    
     "googleaistudio": [
       "www.google-analytics.com",
       "www.googletagmanager.com"
     ],
+    
     "perplexity": [
       "suggest.perplexity.ai"
     ],
+    
     "deepseek": [
       "hif-dliq.deepseek.com"
     ],
+    
     "manus": [
       "metrics.manus.im"
     ],
+    
     "characterai": [
       "events.character.ai"
     ]
+
+    
   },
   "common_auth_domains": [
     "gstatic.com",
@@ -230,6 +287,7 @@
     "recaptcha.net",
     "github.com"
   ],
+  
   "tracking_params": [
     "utm_source",
     "utm_medium",
@@ -248,4 +306,5 @@
     "content",
     "referrer"
   ]
+  
 }
