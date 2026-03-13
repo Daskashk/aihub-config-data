@@ -1,6 +1,8 @@
 {
-  "version": "4.1.0",
+  "version": "4.1.1",
+  
   "service_domains": {
+    
     "chatgpt": [
       "chatgpt.com",
       "openai.com",
@@ -228,6 +230,7 @@
       "www.google.com",
       "www.googleapis.com"
     ],
+    
     "thaura": [
       "thaura.ai"
     ]
