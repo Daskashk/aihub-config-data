@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0",
+  "version": "4.1.2",
   "ai_services": [
     [
       "ChatGPT",
@@ -60,7 +60,7 @@
     [
       "Claude",
       "https://claude.ai/chat",
-      "Paid",
+      "Freemium",
       "Not for privacy",
       "FF673AB7"
     ],
@@ -174,7 +174,7 @@
       "https://gpai.app/",
       "Freemium",
       "Not for privacy",
-      "FF69B4D4"
+      "FF8BBF9F"
     ],
     [
       "Public AI",
@@ -216,7 +216,7 @@
       "https://chat.together.ai/",
       "Freemium",
       "Privacy friendly",
-      "FFDEECFF"
+      "FF9E9E9E"
     ],
     [
       "SecAI",
@@ -308,6 +308,13 @@
       "Freemium",
       "Not for privacy",
       "FF305893"
+    ],
+    [
+      "Thaura",
+      "https://thaura.ai/",
+      "Freemium",
+      "Privacy focused",
+      "FF9E9E9E"
     ]
   ]
 }
