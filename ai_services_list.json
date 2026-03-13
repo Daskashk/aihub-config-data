@@ -1,6 +1,8 @@
 {
-  "version": "4.1.2",
+  "version": "4.1.3",
+
   "ai_services": [
+   
     [
       "ChatGPT",
       "https://chatgpt.com/",
@@ -8,6 +10,7 @@
       "Not for privacy",
       "FF10A37F"
     ],
+    
     [
       "Duck AI",
       "https://duck.ai/",
@@ -15,6 +18,7 @@
       "Privacy focused",
       "FF8B7355"
     ],
+    
     [
       "Venice",
       "https://venice.ai/chat",
@@ -22,6 +26,7 @@
       "Privacy focused",
       "FF9C27B0"
     ],
+    
     [
       "Grok",
       "https://grok.com/",
@@ -29,6 +34,7 @@
       "Not for privacy",
       "FFE91E63"
     ],
+    
     [
       "Lumo",
       "https://lumo.proton.me/",
@@ -36,6 +42,7 @@
       "Privacy focused",
       "FF2196F3"
     ],
+    
     [
       "Deepseek",
       "https://chat.deepseek.com/",
@@ -43,6 +50,7 @@
       "Not for privacy",
       "FF00ACC1"
     ],
+    
     [
       "Gemini",
       "https://gemini.google.com/",
@@ -50,6 +58,7 @@
       "Not for privacy",
       "FF4285F4"
     ],
+    
     [
       "Google Ai Studio",
       "https://aistudio.google.com/",
@@ -57,6 +66,7 @@
       "Not for privacy",
       "FFFCFCFC"
     ],
+    
     [
       "Claude",
       "https://claude.ai/chat",
@@ -64,6 +74,7 @@
       "Not for privacy",
       "FF673AB7"
     ],
+    
     [
       "Perplexity",
       "https://www.perplexity.ai/",
@@ -71,6 +82,7 @@
       "Not for privacy",
       "FF00AB97"
     ],
+    
     [
       "Qwen",
       "https://chat.qwen.ai/",
@@ -78,6 +90,7 @@
       "Not for privacy",
       "FFFF6D00"
     ],
+    
     [
       "Mistral",
       "https://chat.mistral.ai/",
@@ -85,6 +98,7 @@
       "Privacy friendly",
       "FF3F51B5"
     ],
+    
     [
       "Blackbox",
       "https://app.blackbox.ai/",
@@ -92,6 +106,7 @@
       "Not for privacy",
       "FFFF5722"
     ],
+    
     [
       "Copilot",
       "https://copilot.microsoft.com/",
@@ -99,6 +114,7 @@
       "Not for privacy",
       "FF0078D4"
     ],
+    
     [
       "Brave",
       "https://search.brave.com/ask",
@@ -106,6 +122,7 @@
       "Privacy focused",
       "FF198038"
     ],
+    
     [
       "HuggingFace",
       "https://huggingface.co/chat",
@@ -113,6 +130,7 @@
       "Privacy friendly",
       "FFFFD600"
     ],
+    
     [
       "Meta AI",
       "https://www.meta.ai/",
@@ -120,6 +138,7 @@
       "Not for privacy",
       "FF0081FB"
     ],
+    
     [
       "Euria",
       "https://euria.infomaniak.com/",
@@ -127,6 +146,7 @@
       "Privacy focused",
       "FF0D47A1"
     ],
+    
     [
       "Z.ai",
       "https://chat.z.ai/",
@@ -134,6 +154,7 @@
       "Not for privacy",
       "FF8E24AA"
     ],
+    
     [
       "H2O GPTe",
       "https://h2ogpte.genai.h2o.ai/",
@@ -141,6 +162,7 @@
       "Privacy friendly",
       "FF00695C"
     ],
+    
     [
       "Dola",
       "https://www.dola.com/chat",
@@ -148,6 +170,7 @@
       "Not for privacy",
       "FF009688"
     ],
+    
     [
       "Khoj",
       "https://app.khoj.dev/?v=app",
@@ -155,6 +178,7 @@
       "Privacy focused",
       "FFFF9800"
     ],
+    
     [
       "Consensus",
       "https://consensus.app/",
@@ -162,6 +186,7 @@
       "Not for privacy",
       "FFCDDC39"
     ],
+    
     [
       "PLLuM",
       "https://pllum.clarin-pl.eu/",
@@ -169,6 +194,7 @@
       "Not for privacy",
       "FF8E51FF"
     ],
+    
     [
       "GPai",
       "https://gpai.app/",
@@ -176,6 +202,7 @@
       "Not for privacy",
       "FF8BBF9F"
     ],
+    
     [
       "Public AI",
       "https://chat.publicai.co/",
@@ -183,6 +210,7 @@
       "Privacy focused",
       "FFFB2C36"
     ],
+    
     [
       "Arena",
       "https://arena.ai",
@@ -190,6 +218,7 @@
       "Not for privacy",
       "FF4CAF50"
     ],
+    
     [
       "OpenRouter Chat",
       "https://openrouter.ai/chat",
@@ -197,6 +226,7 @@
       "Privacy focused",
       "FF4A90E2"
     ],
+    
     [
       "MiroMind AI",
       "https://dr.miromind.ai/",
@@ -204,6 +234,7 @@
       "Privacy friendly",
       "FF02C0AC"
     ],
+    
     [
       "YouAI",
       "https://you.com/?tbm=youchat&fromSearchBar=true&chatMode=default",
@@ -211,6 +242,7 @@
       "Privacy friendly",
       "FF9E9E9E"
     ],
+    
     [
       "Together AI",
       "https://chat.together.ai/",
@@ -218,6 +250,7 @@
       "Privacy friendly",
       "FF9E9E9E"
     ],
+    
     [
       "SecAI",
       "https://i.secai.ai/chat",
@@ -225,6 +258,7 @@
       "Not for privacy",
       "FFF5454B"
     ],
+    
     [
       "Mammouth AI",
       "https://mammouth.ai/",
@@ -232,6 +266,7 @@
       "Privacy focused",
       "FF9F6C45"
     ],
+    
     [
       "TurboSeek",
       "https://www.turboseek.io/",
@@ -239,6 +274,7 @@
       "Privacy focused",
       "FF4B4B3D"
     ],
+    
     [
       "Kimi",
       "https://www.kimi.com/",
@@ -246,6 +282,7 @@
       "Not for privacy",
       "FFB0E0F0"
     ],
+    
     [
       "Indus",
       "https://indus.sarvam.ai/",
@@ -253,6 +290,7 @@
       "Privacy friendly",
       "FF5F211D"
     ],
+    
     [
       "Poe",
       "https://poe.com/",
@@ -260,6 +298,7 @@
       "Not for privacy",
       "FF413FA9"
     ],
+    
     [
       "Paperguide AI",
       "https://paperguide.ai/ ",
@@ -267,6 +306,7 @@
       "Not for privacy",
       "FFFF864F"
     ],
+    
     [
       "Elicit",
       "https://elicit.com/",
@@ -274,6 +314,7 @@
       "Privacy friendly",
       "FF13707C"
     ],
+    
     [
       "SciSpace AI",
       "https://scispace.com/",
@@ -281,6 +322,7 @@
       "Not for privacy",
       "FFF54900"
     ],
+    
     [
       "Genspark AI",
       "https://www.genspark.ai",
@@ -288,6 +330,7 @@
       "Not for privacy",
       "FFF7F7F7"
     ],
+    
     [
       "10b AI",
       "https://10b.ai/",
@@ -295,6 +338,7 @@
       "Privacy friendly",
       "FF081826"
     ],
+    
     [
       "Manus",
       "https://manus.im/",
@@ -302,6 +346,7 @@
       "Not for privacy",
       "FFD2ACAD"
     ],
+    
     [
       "Character AI",
       "https://character.ai/",
@@ -309,6 +354,7 @@
       "Not for privacy",
       "FF305893"
     ],
+    
     [
       "Thaura",
       "https://thaura.ai/",
@@ -317,4 +363,5 @@
       "FF9E9E9E"
     ]
   ]
+  
 }
