@@ -1,5 +1,5 @@
 {
-  "version": "4.1.2",
+  "version": "4.2.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -315,6 +315,20 @@
       "Freemium",
       "Privacy focused",
       "FF9E9E9E"
+    ],
+    [
+      "Doubao",
+      "https://www.doubao.com/chat/",
+      "Free",
+      "Not for privacy",
+      "FF009688"
+    ],
+    [
+      "Google NotebookLM",
+      "https://notebooklm.google.com",
+      "Free",
+      "Not for privacy",
+      "FFEDEFFA"
     ]
   ]
 }

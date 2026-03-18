@@ -1,5 +1,5 @@
 {
-  "version": "4.1.2",
+  "version": "4.2.0",
   
   "service_domains": {
     
@@ -235,6 +235,17 @@
     
     "thaura": [
       "thaura.ai"
+    ],
+
+    "doubao": [
+      "www.doubao.com",
+      "if-flow-web-cdn.doubao.com",
+      "lf3-short.ibytedapm.com"
+    ],
+    
+    "googlenotebooklm": [
+      "google.com",
+      "fonts.googleapis.com"
     ]
 
     
@@ -276,8 +287,17 @@
     
     "characterai": [
       "events.character.ai"
+    ],
+    
+    "doubao": [
+      "opt.doubao.com",
+      "mcs.doubao.com"
+    ],
+    
+    "googlenotebooklm": [
+      "www.google-analytics.com",
+      "www.googletagmanager.com"
     ]
-
     
   },
   "common_auth_domains": [
