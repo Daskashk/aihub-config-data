@@ -1,5 +1,5 @@
 {
-  "version": "4.2.1",
+  "version": "4.3.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -197,6 +197,9 @@
     "googlenotebooklm": [
       "google.com",
       "fonts.googleapis.com"
+    ],
+    "usul": [
+      "usul.ai"
     ]
   },
   "always_blocked_domains": {
