@@ -1,5 +1,5 @@
 {
-  "version": "4.3.3",
+  "version": "4.3.4",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -113,7 +113,7 @@
     ],
     "arena": [
       "arena.ai",
-      "google.com"
+      "wwww.google.com"
     ],
     "openrouterchat": [
       "openrouter.ai",
