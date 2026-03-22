@@ -1,5 +1,5 @@
 {
-  "version": "4.3.1",
+  "version": "4.3.2",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -39,9 +39,7 @@
     ],
     "claude": [
       "claude.ai",
-      "assets-proxy.anthropic.com",
-      "s-cdn.anthropic.com",
-      "a-cdn.anthropic.com"
+      "anthropic.com"
     ],
     "perplexity": [
       "perplexity.ai"
