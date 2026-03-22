@@ -1,5 +1,5 @@
 {
-  "version": "4.3.2",
+  "version": "4.3.3",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -24,8 +24,7 @@
       "auth.grokipedia.com"
     ],
     "lumo": [
-      "lumo.proton.me",
-      "account.proton.me"
+      "proton.me"
     ],
     "deepseek": [
       "deepseek.com"
