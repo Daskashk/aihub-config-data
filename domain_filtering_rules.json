@@ -1,5 +1,5 @@
 {
-  "version": "4.3.4",
+  "version": "4.4.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -196,6 +196,10 @@
     ],
     "usul": [
       "usul.ai"
+    ],
+    "ernie": [
+      "baidu.com",
+			"bcebos.com"
     ]
   },
   "always_blocked_domains": {
