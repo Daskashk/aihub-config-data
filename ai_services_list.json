@@ -338,11 +338,32 @@
       "FFE5B7BE"
     ],
     [
-			"Ernie",
-			"https://ernie.baidu.com/",
-			"Free",
-			"Not for privacy",
-			"FFE56D00"
+	  "Ernie",
+	  "https://ernie.baidu.com/",
+	  "Free",
+	  "Not for privacy",
+	  "FFE56D00"
+    ],
+	[
+	  "Yupp AI",
+	  "https://yupp.ai/",
+	  "Free",
+	  "Not for privacy",
+	  "FFF46B34"
+    ],
+	  [
+		  "Ernie",
+	  "https://ernie.baidu.com/",
+	  "Free",
+	  "Not for privacy",
+	  "FFE56D00"
+    ],
+	  [
+		  "Ernie",
+	  "https://ernie.baidu.com/",
+	  "Free",
+	  "Not for privacy",
+	  "FFE56D00"
     ]
   ]
 }
