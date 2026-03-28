@@ -199,7 +199,11 @@
     ],
     "ernie": [
       "baidu.com",
-			"bcebos.com"
+	  "bcebos.com"
+    ],
+    "yuppai": [
+      "yupp.ai",
+	  "7s8qtap8fabg3zyw.public.blob.vercel-storage.com"
     ]
   },
   "always_blocked_domains": {
