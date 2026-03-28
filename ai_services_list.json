@@ -1,5 +1,5 @@
 {
-  "version": "4.5.0",
+  "version": "4.5.1",
   "ai_services": [
     [
       "ChatGPT",
@@ -338,32 +338,32 @@
       "FFE5B7BE"
     ],
     [
-	  "Ernie",
-	  "https://ernie.baidu.com/",
-	  "Free",
-	  "Not for privacy",
-	  "FFE56D00"
+      "Ernie",
+      "https://ernie.baidu.com/",
+      "Free",
+      "Not for privacy",
+      "FFE56D00"
     ],
-	[
-	  "Yupp AI",
-	  "https://yupp.ai/",
-	  "Free",
-	  "Not for privacy",
-	  "FFF46B34"
+    [
+      "Yupp AI",
+      "https://yupp.ai/",
+      "Free",
+      "Not for privacy",
+      "FFF46B34"
     ],
-	[
-	  "NilGPT",
-	  "https://nilgpt.xyz/app",
-	  "Free",
-	  "Privacy focused",
-	  "FFFFC971"
+    [
+      "NilGPT",
+      "https://nilgpt.xyz/app",
+      "Free",
+      "Privacy focused",
+      "FFFFC971"
     ],
-	[
-	  "nadanada Chat",
-	  "https://nadanada.me/chat",
-	  "Free",
-	  "Privacy focused",
-	  "FFFCD755"
+    [
+      "Nadanada Chat",
+      "https://nadanada.me/chat",
+      "Free",
+      "Privacy focused",
+      "FFFCD755"
     ]
   ]
 }
