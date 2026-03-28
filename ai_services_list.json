@@ -1,369 +1,376 @@
 {
-  "version": "4.5.1",
+  "version": "5.0.0",
   "ai_services": [
     [
       "ChatGPT",
       "https://chatgpt.com/",
       "Freemium",
       "Not for privacy",
-      "FF10A37F"
+      "10A37F"
     ],
     [
       "Duck AI",
       "https://duck.ai/",
       "Freemium",
       "Privacy focused",
-      "FF8B7355"
+      "8B7355"
     ],
     [
       "Venice",
       "https://venice.ai/chat",
       "Freemium",
       "Privacy focused",
-      "FF9C27B0"
+      "9C27B0"
     ],
     [
       "Grok",
       "https://grok.com/",
       "Freemium",
       "Not for privacy",
-      "FFE91E63"
+      "E91E63"
     ],
     [
       "Lumo",
       "https://lumo.proton.me/",
       "Freemium",
       "Privacy focused",
-      "FF2196F3"
+      "2196F3"
     ],
     [
       "Deepseek",
       "https://chat.deepseek.com/",
       "Free",
       "Not for privacy",
-      "FF00ACC1"
+      "00ACC1"
     ],
     [
       "Gemini",
       "https://gemini.google.com/",
       "Freemium",
       "Not for privacy",
-      "FF4285F4"
+      "4285F4"
     ],
     [
       "Google Ai Studio",
       "https://aistudio.google.com/",
       "Freemium",
       "Not for privacy",
-      "FFFCFCFC"
+      "FCFCFC"
     ],
     [
       "Claude",
       "https://claude.ai/chat",
       "Freemium",
       "Not for privacy",
-      "FF673AB7"
+      "673AB7"
     ],
     [
       "Perplexity",
       "https://www.perplexity.ai/",
       "Freemium",
       "Not for privacy",
-      "FF00AB97"
+      "00AB97"
     ],
     [
       "Qwen",
       "https://chat.qwen.ai/",
       "Free",
       "Not for privacy",
-      "FFFF6D00"
+      "6D00"
     ],
     [
       "Mistral",
       "https://chat.mistral.ai/",
       "Freemium",
       "Privacy friendly",
-      "FF3F51B5"
+      "3F51B5"
     ],
     [
       "Blackbox",
       "https://app.blackbox.ai/",
       "Freemium",
       "Not for privacy",
-      "FFFF5722"
+      "5722"
     ],
     [
       "Copilot",
       "https://copilot.microsoft.com/",
       "Freemium",
       "Not for privacy",
-      "FF0078D4"
+      "0078D4"
     ],
     [
       "Brave",
       "https://search.brave.com/ask",
       "Free",
       "Privacy focused",
-      "FF198038"
+      "198038"
     ],
     [
       "HuggingFace",
       "https://huggingface.co/chat",
       "Freemium",
       "Privacy friendly",
-      "FFFFD600"
+      "D600"
     ],
     [
       "Meta AI",
       "https://www.meta.ai/",
       "Free",
       "Not for privacy",
-      "FF0081FB"
+      "0081FB"
     ],
     [
       "Euria",
       "https://euria.infomaniak.com/",
       "Freemium",
       "Privacy focused",
-      "FF0D47A1"
+      "0D47A1"
     ],
     [
       "Z.ai",
       "https://chat.z.ai/",
       "Free",
       "Not for privacy",
-      "FF8E24AA"
+      "8E24AA"
     ],
     [
       "H2O GPTe",
       "https://h2ogpte.genai.h2o.ai/",
       "Freemium",
       "Privacy friendly",
-      "FF00695C"
+      "00695C"
     ],
     [
       "Dola",
       "https://www.dola.com/chat",
       "Free",
       "Not for privacy",
-      "FF009688"
+      "009688"
     ],
     [
       "Khoj",
       "https://app.khoj.dev/?v=app",
       "Freemium",
       "Privacy focused",
-      "FFFF9800"
+      "FF9800"
     ],
     [
       "Consensus",
       "https://consensus.app/",
       "Free",
       "Not for privacy",
-      "FFCDDC39"
+      "CDDC39"
     ],
     [
       "PLLuM",
       "https://pllum.clarin-pl.eu/",
       "Free",
       "Not for privacy",
-      "FF8E51FF"
+      "8E51FF"
     ],
     [
       "GPai",
       "https://gpai.app/",
       "Freemium",
       "Not for privacy",
-      "FF69B4D4"
+      "69B4D4"
     ],
     [
       "Public AI",
       "https://chat.publicai.co/",
       "Free",
       "Privacy focused",
-      "FFFB2C36"
+      "FB2C36"
     ],
     [
       "Arena",
       "https://arena.ai",
       "Free",
       "Not for privacy",
-      "FF4CAF50"
+      "4CAF50"
     ],
     [
       "OpenRouter Chat",
       "https://openrouter.ai/chat",
       "Freemium",
       "Privacy focused",
-      "FF4A90E2"
+      "4A90E2"
     ],
     [
       "MiroMind AI",
       "https://dr.miromind.ai/",
       "Free",
       "Privacy friendly",
-      "FF02C0AC"
+      "02C0AC"
     ],
     [
       "YouAI",
       "https://you.com/?tbm=youchat&fromSearchBar=true&chatMode=default",
       "Freemium",
       "Privacy friendly",
-      "FF9E9E9E"
+      "9E9E9E"
     ],
     [
       "Together AI",
       "https://chat.together.ai/",
       "Freemium",
       "Privacy friendly",
-      "FF2196F3"
+      "2196F3"
     ],
     [
       "SecAI",
       "https://i.secai.ai/chat",
       "Freemium",
       "Not for privacy",
-      "FFF5454B"
+      "F5454B"
     ],
     [
       "Mammouth AI",
       "https://mammouth.ai/",
       "Paid",
       "Privacy focused",
-      "FF9F6C45"
+      "9F6C45"
     ],
     [
       "TurboSeek",
       "https://www.turboseek.io/",
       "Free",
       "Privacy focused",
-      "FF4B4B3D"
+      "4B4B3D"
     ],
     [
       "Kimi",
       "https://www.kimi.com/",
       "Freemium",
       "Not for privacy",
-      "FFB0E0F0"
+      "B0E0F0"
     ],
     [
       "Indus",
       "https://indus.sarvam.ai/",
       "Free",
       "Privacy friendly",
-      "FF5F211D"
+      "5F211D"
     ],
     [
       "Poe",
       "https://poe.com/",
       "Freemium",
       "Not for privacy",
-      "FF413FA9"
+      "413FA9"
     ],
     [
       "Paperguide AI",
       "https://paperguide.ai/ ",
       "Freemium",
       "Not for privacy",
-      "FFFF864F"
+      "FF864F"
     ],
     [
       "Elicit",
       "https://elicit.com/",
       "Freemium",
       "Privacy friendly",
-      "FF13707C"
+      "13707C"
     ],
     [
       "SciSpace AI",
       "https://scispace.com/",
       "Free",
       "Not for privacy",
-      "FFF54900"
+      "F54900"
     ],
     [
       "Genspark AI",
       "https://www.genspark.ai",
       "Freemium",
       "Not for privacy",
-      "FFF7F7F7"
+      "F7F7F7"
     ],
     [
       "10b AI",
       "https://10b.ai/",
       "Paid",
       "Privacy friendly",
-      "FFA8CCC9"
+      "A8CCC9"
     ],
     [
       "Manus",
       "https://manus.im/",
       "Freemium",
       "Not for privacy",
-      "FFD2ACAD"
+      "D2ACAD"
     ],
     [
       "Character AI",
       "https://character.ai/",
       "Freemium",
       "Not for privacy",
-      "FF305893"
+      "305893"
     ],
     [
       "Thaura",
       "https://thaura.ai/",
       "Freemium",
       "Privacy focused",
-      "FF9E9E9E"
+      "9E9E9E"
     ],
     [
       "Doubao",
       "https://www.doubao.com/chat/",
       "Free",
       "Not for privacy",
-      "FF009688"
+      "009688"
     ],
     [
       "Google NotebookLM",
       "https://notebooklm.google.com",
       "Free",
       "Not for privacy",
-      "FFEDEFFA"
+      "EDEFFA"
     ],
     [
       "Usul",
       "https://usul.ai/",
       "Free",
       "Privacy friendly",
-      "FFE5B7BE"
+      "E5B7BE"
     ],
     [
       "Ernie",
       "https://ernie.baidu.com/",
       "Free",
       "Not for privacy",
-      "FFE56D00"
+      "E56D00"
     ],
     [
       "Yupp AI",
       "https://yupp.ai/",
       "Free",
       "Not for privacy",
-      "FFF46B34"
+      "F46B34"
     ],
     [
       "NilGPT",
       "https://nilgpt.xyz/app",
       "Free",
       "Privacy focused",
-      "FFFFC971"
+      "FFC971"
     ],
     [
       "Nadanada Chat",
       "https://nadanada.me/chat",
       "Free",
       "Privacy focused",
-      "FFFCD755"
+      "FCD755"
+    ],
+    [
+      "Perchance",
+      "https://perchance.org/",
+      "Free",
+      "Privacy friendly",
+      "5C899B"
     ]
   ]
 }

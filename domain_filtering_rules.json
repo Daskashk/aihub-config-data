@@ -1,5 +1,5 @@
 {
-  "version": "4.5.0",
+  "version": "4.6.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -199,24 +199,30 @@
     ],
     "ernie": [
       "baidu.com",
-	  "bcebos.com"
+      "bcebos.com"
     ],
     "yuppai": [
       "yupp.ai",
-	  "7s8qtap8fabg3zyw.public.blob.vercel-storage.com"
+      "7s8qtap8fabg3zyw.public.blob.vercel-storage.com"
     ],
-	"nilgpt": [
-	  "nilgpt.xyz",
-	  "auth.privy.io",
-	  "explorer-api.walletconnect.com",
-	  "pulse.walletconnect.org",
+    "nilgpt": [
+      "nilgpt.xyz",
+      "auth.privy.io",
+      "explorer-api.walletconnect.com",
+      "pulse.walletconnect.org",
       "ckseqaukdparbhyiwcuc.supabase.co",
-      "api.web3modal.org" 
-	],
+      "api.web3modal.org"
+    ],
     "nadanadachat": [
       "nadanada.me"
-	]
-	  
+    ],
+    "perchance": [
+      "perchance.org",
+      "uploads.dev",
+      "cdn.jsdelivr.net",
+      "www.google.com",
+      "huggingface.co"
+    ]
   },
   "always_blocked_domains": {
     "chatgpt": [
