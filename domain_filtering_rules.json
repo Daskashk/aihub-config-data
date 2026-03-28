@@ -205,14 +205,17 @@
       "yupp.ai",
 	  "7s8qtap8fabg3zyw.public.blob.vercel-storage.com"
     ],
-	 "nilgpt": [
-	   "nilgpt.xyz",
-	   "auth.privy.io",
-	   "explorer-api.walletconnect.com",
-	   "pulse.walletconnect.org",
-	   "ckseqaukdparbhyiwcuc.supabase.co",
-	   "api.web3modal.org" 
-	 ]
+	"nilgpt": [
+	  "nilgpt.xyz",
+	  "auth.privy.io",
+	  "explorer-api.walletconnect.com",
+	  "pulse.walletconnect.org",
+      "ckseqaukdparbhyiwcuc.supabase.co",
+      "api.web3modal.org" 
+	],
+    "nadanadachat": [
+      "nadanada.me"
+	]
 	  
   },
   "always_blocked_domains": {
