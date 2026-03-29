@@ -1,5 +1,5 @@
 {
-  "version": "5.0.0",
+  "version": "5.0.1",
   "ai_services": [
     [
       "ChatGPT",
@@ -367,7 +367,7 @@
     ],
     [
       "Perchance",
-      "https://perchance.org/",
+      "https://perchance.org/ai-chat",
       "Free",
       "Privacy friendly",
       "5C899B"
