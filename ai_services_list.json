@@ -1,5 +1,5 @@
 {
-  "version": "5.0.1",
+  "version": "5.1.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -55,7 +55,7 @@
       "https://aistudio.google.com/",
       "Freemium",
       "Not for privacy",
-      "FCFCFC"
+      "926AA6"
     ],
     [
       "Claude",
@@ -237,7 +237,7 @@
       "https://www.turboseek.io/",
       "Free",
       "Privacy focused",
-      "4B4B3D"
+      "B9D08B"
     ],
     [
       "Kimi",
@@ -251,7 +251,7 @@
       "https://indus.sarvam.ai/",
       "Free",
       "Privacy friendly",
-      "5F211D"
+      "BFE5B1"
     ],
     [
       "Poe",
@@ -286,7 +286,7 @@
       "https://www.genspark.ai",
       "Freemium",
       "Not for privacy",
-      "F7F7F7"
+      "CEC7DC"
     ],
     [
       "10b AI",
@@ -328,7 +328,7 @@
       "https://notebooklm.google.com",
       "Free",
       "Not for privacy",
-      "EDEFFA"
+      "FEAEA5"
     ],
     [
       "Usul",
