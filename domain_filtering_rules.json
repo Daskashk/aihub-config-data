@@ -217,13 +217,16 @@
       "nadanada.me"
     ],
     "perchance": [
-			"perchance.org",
-			"youtube-nocookie.com",
-			"uploads.dev",
+	  "perchance.org",
+	  "youtube-nocookie.com",
+	  "uploads.dev",
       "cdn.jsdelivr.net",
       "www.google.com",
       "huggingface.co"
-    ]
+    ],
+	"llamatutor": [
+	  "llamatutor.together.ai" 	  
+	]
   },
   "always_blocked_domains": {
     "chatgpt": [
