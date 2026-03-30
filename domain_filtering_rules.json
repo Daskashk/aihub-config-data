@@ -226,6 +226,9 @@
     ],
 	"llamatutor": [
 	  "llamatutor.together.ai" 	  
+	],
+	"xprivo": [
+	  "www.xprivo.com" 	  
 	]
   },
   "always_blocked_domains": {
