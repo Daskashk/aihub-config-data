@@ -180,7 +180,7 @@
       "Public AI",
       "https://chat.publicai.co/",
       "Free",
-      "Privacy focused",
+      "Privacy friendly",
       "FB2C36"
     ],
     [
@@ -385,6 +385,20 @@
       "Freemium",
       "Privacy focused",
       "212121"
+    ],
+    [
+      "Allen AI",
+      "https://playground.allenai.org/",
+      "Free",
+      "Privacy friendly",
+      "F0529C"
+    ],
+    [
+      "SEA-LION",
+      "https://playground.sea-lion.ai/",
+      "Free",
+      "Privacy friendly",
+      "633F7E"
     ]
   ]
 }
