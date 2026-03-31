@@ -1,5 +1,5 @@
 {
-  "version": "5.1.0",
+  "version": "5.2.2",
   "ai_services": [
     [
       "ChatGPT",
@@ -180,7 +180,7 @@
       "Public AI",
       "https://chat.publicai.co/",
       "Free",
-      "Privacy focused",
+      "Privacy friendly",
       "FB2C36"
     ],
     [
@@ -371,6 +371,34 @@
       "Free",
       "Privacy friendly",
       "5C899B"
+    ],
+    [
+      "Llama Tutor",
+      "https://llamatutor.together.ai/",
+      "Free",
+      "Privacy friendly",
+      "397FF5"
+    ],
+    [
+      "xPrivo",
+      "https://www.xprivo.com/",
+      "Freemium",
+      "Privacy focused",
+      "212121"
+    ],
+    [
+      "Allen AI",
+      "https://playground.allenai.org/",
+      "Free",
+      "Privacy friendly",
+      "F0529C"
+    ],
+    [
+      "SEA-LION",
+      "https://playground.sea-lion.ai/",
+      "Free",
+      "Privacy friendly",
+      "633F7E"
     ]
   ]
 }

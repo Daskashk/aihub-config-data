@@ -1,5 +1,5 @@
 {
-  "version": "4.6.1",
+  "version": "5.2.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -217,13 +217,28 @@
       "nadanada.me"
     ],
     "perchance": [
-			"perchance.org",
-			"youtube-nocookie.com",
-			"uploads.dev",
+	  "perchance.org",
+	  "youtube-nocookie.com",
+	  "uploads.dev",
       "cdn.jsdelivr.net",
       "www.google.com",
       "huggingface.co"
-    ]
+    ],
+	"llamatutor": [
+	  "llamatutor.together.ai" 	  
+	],
+	"xprivo": [
+	  "www.xprivo.com" 	  
+	],
+	"allenai": [
+	  "playground.allenai.org",
+	  "allen.ai"
+	],
+	"sea-lion": [
+	  "playground.sea-lion.ai",
+	  "allen.ai"
+	]
+
   },
   "always_blocked_domains": {
     "chatgpt": [
