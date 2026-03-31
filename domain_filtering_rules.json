@@ -229,7 +229,16 @@
 	],
 	"xprivo": [
 	  "www.xprivo.com" 	  
+	],
+	"allenai": [
+	  "playground.allenai.org",
+	  "allen.ai"
+	],
+	"sea-lion": [
+	  "playground.sea-lion.ai",
+	  "allen.ai"
 	]
+
   },
   "always_blocked_domains": {
     "chatgpt": [
