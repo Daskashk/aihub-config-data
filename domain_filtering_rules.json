@@ -1,5 +1,5 @@
 {
-  "version": "5.2.2",
+  "version": "5.3.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -31,10 +31,11 @@
     ],
     "gemini": [
       "gemini.google.com",
-      "push.clients6.google.com"
+      "clients6.google.com"
     ],
     "googleaistudio": [
-      "google.com",
+      "aistudio.google.com",
+      "clients6.google.com",
       "fonts.googleapis.com"
     ],
     "claude": [
@@ -192,7 +193,8 @@
       "lf3-short.ibytedapm.com"
     ],
     "googlenotebooklm": [
-      "google.com",
+      "notebooklm.google.com",
+      "clients6.google.com",
       "fonts.googleapis.com"
     ],
     "usul": [
@@ -218,28 +220,27 @@
       "nadanada.me"
     ],
     "perchance": [
-	  "perchance.org",
-	  "youtube-nocookie.com",
-	  "uploads.dev",
+      "perchance.org",
+      "youtube-nocookie.com",
+      "uploads.dev",
       "cdn.jsdelivr.net",
       "www.google.com",
       "huggingface.co"
     ],
-	"llamatutor": [
-	  "llamatutor.together.ai" 	  
-	],
-	"xprivo": [
-	  "www.xprivo.com" 	  
-	],
-	"allenai": [
-	  "playground.allenai.org",
-	  "allen.ai"
-	],
-	"sea-lion": [
-	  "playground.sea-lion.ai",
-	  "allen.ai"
-	]
-
+    "llamatutor": [
+      "llamatutor.together.ai"
+    ],
+    "xprivo": [
+      "www.xprivo.com"
+    ],
+    "allenai": [
+      "playground.allenai.org",
+      "allen.ai"
+    ],
+    "sea-lion": [
+      "playground.sea-lion.ai",
+      "allen.ai"
+    ]
   },
   "always_blocked_domains": {
     "chatgpt": [
