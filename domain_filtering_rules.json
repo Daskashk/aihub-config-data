@@ -1,5 +1,5 @@
 {
-  "version": "5.3.0",
+  "version": "5.3.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -11,7 +11,8 @@
       "oaistatic.com"
     ],
     "duckai": [
-      "duck.ai"
+      "duck.ai",
+			"duckduckgo.com"
     ],
     "venice": [
       "venice.ai"
@@ -246,6 +247,9 @@
     "chatgpt": [
       "ab.chatgpt.com"
     ],
+		"duckai": [
+			"improving.duckduckgo.com"
+		],
     "grok": [
       "www.google-analytics.com"
     ],
