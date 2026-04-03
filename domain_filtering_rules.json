@@ -1,5 +1,5 @@
 {
-  "version": "5.3.1",
+  "version": "5.3.2",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -12,7 +12,7 @@
     ],
     "duckai": [
       "duck.ai",
-			"duckduckgo.com"
+      "duckduckgo.com"
     ],
     "venice": [
       "venice.ai"
@@ -20,9 +20,9 @@
     "grok": [
       "grok.com",
       "x.com",
-      "imagine-public.x.ai",
-      "accounts.x.ai",
-      "auth.grokipedia.com"
+      "x.ai",
+      "auth.grokipedia.com",
+      "twimg.com"
     ],
     "lumo": [
       "proton.me"
@@ -247,9 +247,9 @@
     "chatgpt": [
       "ab.chatgpt.com"
     ],
-		"duckai": [
-			"improving.duckduckgo.com"
-		],
+    "duckai": [
+      "improving.duckduckgo.com"
+    ],
     "grok": [
       "www.google-analytics.com"
     ],
