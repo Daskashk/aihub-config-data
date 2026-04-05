@@ -1,5 +1,5 @@
 {
-  "version": "5.3.2",
+  "version": "5.4.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -241,6 +241,9 @@
     "sea-lion": [
       "playground.sea-lion.ai",
       "allen.ai"
+    ],
+    "mimostudio": [
+      "aistudio.xiaomimimo.com"
     ]
   },
   "always_blocked_domains": {
@@ -295,7 +298,10 @@
     "github.githubassets.com",
     "challenges.cloudflare.com",
     "recaptcha.net",
-    "github.com"
+    "github.com",
+    "font.sec.miui.com",
+    "fds.api.mi-img.com",
+    "xiaomi.com"
   ],
   "tracking_params": [
     "utm_source",

@@ -1,5 +1,5 @@
 {
-  "version": "5.2.1",
+  "version": "5.3.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -399,6 +399,13 @@
       "Free",
       "Privacy friendly",
       "633F7E"
+    ],
+    [
+      "MiMo Studio",
+      "https://aistudio.xiaomimimo.com/#/c",
+      "Freemium",
+      "Not for privacy",
+      "5AB6C2"
     ]
   ]
 }
