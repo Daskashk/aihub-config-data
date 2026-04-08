@@ -1,5 +1,5 @@
 {
-  "version": "5.4.0",
+  "version": "5.5.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -244,6 +244,13 @@
     ],
     "mimostudio": [
       "aistudio.xiaomimimo.com"
+    ],
+    "confer": [
+      "confer.to",
+      "js.stripe.com",
+      "m.stripe.com",
+      "m.stripe.network",
+      "stripecdn.map.fastly.net"
     ]
   },
   "always_blocked_domains": {
