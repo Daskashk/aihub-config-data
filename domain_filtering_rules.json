@@ -244,6 +244,13 @@
     ],
     "mimostudio": [
       "aistudio.xiaomimimo.com"
+    ],
+    "confer": [
+      "confer.to",
+      "js.stripe.com",
+      "m.stripe.com",
+      "m.stripe.network",
+      "stripecdn.map.fastly.net"
     ]
   },
   "always_blocked_domains": {
