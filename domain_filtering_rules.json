@@ -1,5 +1,5 @@
 {
-  "version": "5.5.1",
+  "version": "5.6.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -250,6 +250,9 @@
       "m.stripe.com",
       "m.stripe.network",
       "stripecdn.map.fastly.net"
+    ],
+    "google": [
+      "google.com"
     ]
   },
   "always_blocked_domains": {
@@ -264,7 +267,8 @@
     ],
     "gemini": [
       "www.google-analytics.com",
-      "www.googletagmanager.com"
+      "www.googletagmanager.com",
+      "play.google.com"
     ],
     "googleaistudio": [
       "www.google-analytics.com",
@@ -289,6 +293,9 @@
     "googlenotebooklm": [
       "www.google-analytics.com",
       "www.googletagmanager.com"
+    ],
+    "google": [
+      "play.google.com"
     ]
   },
   "common_auth_domains": [
