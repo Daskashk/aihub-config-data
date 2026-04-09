@@ -1,5 +1,5 @@
 {
-  "version": "5.6.0",
+  "version": "5.6.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -31,7 +31,8 @@
       "deepseek.com"
     ],
     "gemini": [
-      "google.com"
+      "google.com",
+      "googleusercontent.com"
     ],
     "googleaistudio": [
       "aistudio.google.com",
