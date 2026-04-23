@@ -1,5 +1,5 @@
 {
-  "version": "5.6.0",
+  "version": "5.7.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -420,6 +420,13 @@
       "Freemium",
       "Not for privacy",
       "B5B538"
+    ],
+    [
+      "Mercury",
+      "https://chat.inceptionlabs.ai/",
+      "Freemium",
+      "Privacy friendly",
+      "609C2F"
     ]
   ]
 }

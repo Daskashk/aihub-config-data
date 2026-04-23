@@ -1,5 +1,5 @@
 {
-  "version": "5.6.1",
+  "version": "5.7.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -254,6 +254,10 @@
     ],
     "google": [
       "google.com"
+    ],
+    "mercury": [
+      "chat.inceptionlabs.ai",
+      "cdn.jsdelivr.net"
     ]
   },
   "always_blocked_domains": {
