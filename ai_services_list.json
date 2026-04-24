@@ -1,5 +1,5 @@
 {
-  "version": "5.8.0",
+  "version": "5.8.1",
   "ai_services": [
     [
       "ChatGPT",
@@ -128,7 +128,7 @@
       "0D47A1"
     ],
     [
-      "Z.ai",
+      "Z AI",
       "https://chat.z.ai/",
       "Free",
       "Not for privacy",
