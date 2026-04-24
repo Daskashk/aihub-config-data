@@ -261,15 +261,15 @@
     ],
     "baiduwenxin": [
       "baidu.com",
-      "cdn.bcebos.com",
+      "cdn.bcebos.com"
     ],
     "baiduyiyan": [
       "baidu.com",
-      "cdn.bcebos.com",
+      "cdn.bcebos.com"
     ],
     "minimax": [
       "agent.minimaxi.com",
-      "cdn.hailuoai.com",
+      "cdn.hailuoai.com"
     ],
     "zhipuqingyan": [
       "chatglm.cn",
@@ -285,14 +285,14 @@
     ],
     "tencentyuanbao": [
       "yuanbao.tencent.com",
-      "wss.igtm-yuanbao.com",
+      "wss.igtm-yuanbao.com"
     ],
     "longcat": [
       "longcat.chat",
       "meituan.com",
       "meituan.net",
       "catfront.dianping.com"
-    ],
+    ]
   },
   "always_blocked_domains": {
     "chatgpt": [
