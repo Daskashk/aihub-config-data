@@ -266,6 +266,10 @@
     "baiduyiyan": [
       "baidu.com",
       "cdn.bcebos.com",
+    ],
+    "minimax": [
+      "agent.minimaxi.com",
+      "cdn.hailuoai.com",
     ]
   },
   "always_blocked_domains": {
