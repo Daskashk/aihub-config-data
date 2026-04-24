@@ -1,5 +1,5 @@
 {
-  "version": "5.8.0",
+  "version": "5.8.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -81,7 +81,7 @@
     "euria": [
       "infomaniak.com"
     ],
-    "z.ai": [
+    "zai": [
       "chat.z.ai",
       "z-cdn.chatglm.cn"
     ],
