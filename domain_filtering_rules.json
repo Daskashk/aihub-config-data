@@ -270,7 +270,19 @@
     "minimax": [
       "agent.minimaxi.com",
       "cdn.hailuoai.com",
-    ]
+    ],
+    "zhipuqingyan": [
+      "chatglm.cn",
+      "alicdn.com",
+      "cdngslb.com",
+      "volccdn.com"
+    ],
+    "xunfeistarfire": [
+      "xinghuo.xfyun.cn",
+      "xfyun.cn",
+      "xfyun.cn.cdn20.com",
+      "bjcdn.openstorage.cn"
+    ],
   },
   "always_blocked_domains": {
     "chatgpt": [
@@ -326,6 +338,9 @@
       "hm.baidu.com",
       "miaowu.baidu.com",
       "nsclick.baidu.com"
+    ],
+    "xunfeistarfire": [
+      "dt.xfyun.cn"
     ]
   },
   "common_auth_domains": [
