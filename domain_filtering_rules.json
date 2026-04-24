@@ -258,12 +258,14 @@
     "mercury": [
       "chat.inceptionlabs.ai",
       "cdn.jsdelivr.net"
-    ]
+    ],
     "baiduwenxin": [
       "baidu.com",
       "cdn.bcebos.com",
-      "jomodns.com",
-      "n.shifen.com"
+    ],
+    "baiduyiyan": [
+      "baidu.com",
+      "cdn.bcebos.com",
     ]
   },
   "always_blocked_domains": {
@@ -307,6 +309,19 @@
     ],
     "google": [
       "play.google.com"
+    ],
+    "baiduwenxin": [
+      "dlswbr.baidu.com",
+      "h2tcbox.baidu.com",
+      "hm.baidu.com",
+      "miaowu.baidu.com"
+    ],
+    "baiduyiyan": [
+      "dlswbr.baidu.com",
+      "fclog.baidu.com",
+      "hm.baidu.com",
+      "miaowu.baidu.com",
+      "nsclick.baidu.com"
     ]
   },
   "common_auth_domains": [
