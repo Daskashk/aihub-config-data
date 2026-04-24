@@ -427,13 +427,20 @@
       "Freemium",
       "Privacy friendly",
       "609C2F"
-    ]
+    ],
     [
       "Baidu Wenxin",
       "https://wenxin.baidu.com/",
       "Free",
       "Not for privacy",
       "202E35"
+    ],
+    [
+      "Baidu Yiyan",
+      "https://yiyan.baidu.com/",
+      "Free",
+      "Not for privacy",
+      "7B96FF"
     ]
   ]
 }
