@@ -283,6 +283,16 @@
       "xfyun.cn.cdn20.com",
       "bjcdn.openstorage.cn"
     ],
+    "tencentyuanbao": [
+      "yuanbao.tencent.com",
+      "wss.igtm-yuanbao.com",
+    ],
+    "longcat": [
+      "longcat.chat",
+      "meituan.com",
+      "meituan.net",
+      "catfront.dianping.com"
+    ],
   },
   "always_blocked_domains": {
     "chatgpt": [
