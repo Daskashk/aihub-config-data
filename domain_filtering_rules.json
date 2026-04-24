@@ -259,6 +259,12 @@
       "chat.inceptionlabs.ai",
       "cdn.jsdelivr.net"
     ]
+    "baiduwenxin": [
+      "baidu.com",
+      "cdn.bcebos.com",
+      "jomodns.com",
+      "n.shifen.com"
+    ]
   },
   "always_blocked_domains": {
     "chatgpt": [
