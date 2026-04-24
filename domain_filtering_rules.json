@@ -275,7 +275,8 @@
       "chatglm.cn",
       "alicdn.com",
       "cdngslb.com",
-      "volccdn.com"
+      "volccdn.com",
+      "queniuso.com"
     ],
     "xunfeistarfire": [
       "xinghuo.xfyun.cn",
@@ -285,7 +286,9 @@
     ],
     "tencentyuanbao": [
       "yuanbao.tencent.com",
-      "wss.igtm-yuanbao.com"
+      "wss.igtm-yuanbao.com",
+      "ovscdns.com",
+      "myqcloud.com"
     ],
     "longcat": [
       "longcat.chat",
