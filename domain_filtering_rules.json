@@ -1,5 +1,5 @@
 {
-  "version": "5.8.2",
+  "version": "5.8.3",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -97,10 +97,6 @@
       "ciciai.com",
       "yhgfb-static.com"
     ],
-    "khoj": [
-      "khoj.dev",
-      "khoj.auth0.com"
-    ],
     "consensus": [
       "consensus.app"
     ],
@@ -123,7 +119,8 @@
       "img.clerk.com"
     ],
     "miromindai": [
-      "dr.miromind.ai"
+      "dr.miromind.ai",
+      "assets.miromind.ai"
     ],
     "youai": [
       "you.com",
