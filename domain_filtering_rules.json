@@ -1,5 +1,5 @@
 {
-  "version": "5.9.0",
+  "version": "5.9.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -69,7 +69,7 @@
     "brave": [
       "brave.com"
     ],
-    "huggingface": [
+    "huggingchat": [
       "huggingface.co",
       "token.awswaf.com"
     ],
