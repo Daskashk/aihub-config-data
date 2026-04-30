@@ -1,5 +1,5 @@
 {
-  "version": "5.8.3",
+  "version": "5.9.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -107,11 +107,11 @@
       "198038"
     ],
     [
-      "HuggingFace",
+      "HuggingChat",
       "https://huggingface.co/chat",
       "Freemium",
       "Privacy friendly",
-      "D600"
+      "FFFFFF"
     ],
     [
       "Meta AI",
@@ -468,7 +468,14 @@
       "https://longcat.chat/",
       "Free",
       "Not for privacy",
-      "#4CE670"
+      "4CE670"
+    ],
+    [
+      "Mike",
+      "https://app.mikeoss.com/assistant",
+      "Paid",
+      "Privacy friendly",
+      "808080"
     ]
   ]
 }
