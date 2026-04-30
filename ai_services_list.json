@@ -1,5 +1,5 @@
 {
-  "version": "5.10.0",
+  "version": "5.11.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -483,6 +483,13 @@
       "Freemium",
       "Not For Privacy",
       "D25373"
+    ],
+    [
+      "Kai",
+      "kai9000.com/app",
+      "Free",
+      "Privacy focused",
+      "6F30DA"
     ]
   ]
 }

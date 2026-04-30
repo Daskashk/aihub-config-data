@@ -1,5 +1,5 @@
 {
-  "version": "5.10.0",
+  "version": "5.11.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -300,6 +300,9 @@
     "scibot": [
       "sci-bot.ru",
       "cdn.jsdelivr.net"
+    ],
+    "kai": [
+      "kai9000.com"
     ]
   },
   "always_blocked_domains": {
