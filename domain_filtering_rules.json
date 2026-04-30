@@ -1,5 +1,5 @@
 {
-  "version": "5.9.1",
+  "version": "5.10.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -294,9 +294,12 @@
       "catfront.dianping.com"
     ],
     "mike": [
-      "app.mikeoss.com",
-      "api.mikeoss.com",
+      "mikeoss.com",
       "yypfgnsfpxriylqszali.supabase.co"
+    ],
+    "scibot": [
+      "sci-bot.ru",
+      "cdn.jsdelivr.net"
     ]
   },
   "always_blocked_domains": {

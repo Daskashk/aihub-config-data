@@ -1,5 +1,5 @@
 {
-  "version": "5.9.0",
+  "version": "5.10.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -476,6 +476,13 @@
       "Paid",
       "Privacy friendly",
       "808080"
+    ],
+    [
+      "Sci Bot",
+      "https://sci-bot.ru/",
+      "Freemium",
+      "Not For Privacy",
+      "D25373"
     ]
   ]
 }
