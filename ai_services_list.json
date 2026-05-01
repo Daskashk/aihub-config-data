@@ -1,5 +1,5 @@
 {
-  "version": "5.12.1",
+  "version": "5.13.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -511,6 +511,20 @@
       "Paid",
       "Privacy friendly",
       "0794A9"
+    ],
+    [
+      "Kagi",
+      "https://kagi.com/assistant",
+      "Freemium",
+      "Privacy friendly",
+      "70AB64"
+    ],
+    [
+      "Maple AI",
+      "https://trymaple.ai/",
+      "Freemium",
+      "Privacy focused",
+      "B39153"
     ]
   ]
 }

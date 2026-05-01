@@ -1,5 +1,5 @@
 {
-  "version": "5.12.0",
+  "version": "5.13.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -321,7 +321,14 @@
     ],
     "nanogpt": [
       "nano-gpt.com"
-    ]  
+    ],
+    "kagi": [
+      "kagi.com"
+    ],
+    "mapleai": [
+      "trymaple.ai",
+      "billing.opensecret.cloud"
+    ]
   },
   "always_blocked_domains": {
     "chatgpt": [
