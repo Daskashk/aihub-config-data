@@ -318,7 +318,9 @@
     "obscurifyai": [
       "obscurify.ai",
       "cdn.jsdelivr.net"
-    ]
+    ],
+    "nanogpt": [
+      "nano-gpt.com"
   },
   "always_blocked_domains": {
     "chatgpt": [
