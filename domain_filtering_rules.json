@@ -314,6 +314,10 @@
       "www.google.com",
       "gstatic.com",
       "cdn.jsdelivr.net"
+    ],
+    "obscurifyai": [
+      "obscurify.ai",
+      "cdn.jsdelivr.net"
     ]
   },
   "always_blocked_domains": {
