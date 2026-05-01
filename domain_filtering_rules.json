@@ -303,6 +303,17 @@
     ],
     "kai": [
       "kai9000.com"
+    ],
+    "okara": [
+      "okara.ai",
+      "api.allorigins.win",
+      "api.codetabs.com",
+      "corsproxy.io",
+      "ddwl4m2hdecbv.cloudfront.net",
+      "thingproxy.freeboard.io",
+      "www.google.com",
+      "gstatic.com",
+      "cdn.jsdelivr.net"
     ]
   },
   "always_blocked_domains": {
