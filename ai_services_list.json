@@ -1,5 +1,5 @@
 {
-  "version": "5.12.0",
+  "version": "5.12.1",
   "ai_services": [
     [
       "ChatGPT",
@@ -499,7 +499,7 @@
       "EEEAE0"
     ],
     [
-      "Obscurify ai",
+      "Obscurify AI",
       "https://obscurify.ai/",
       "Paid",
       "Privacy focused",
