@@ -1,5 +1,5 @@
 {
-  "version": "5.13.1",
+  "version": "5.14.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -525,6 +525,13 @@
       "Freemium",
       "Privacy focused",
       "B39153"
+    ],
+    [
+      "Hacker AI",
+      "https://hacker.io/",
+      "Freemium",
+      "Not for privacy",
+      "82C5C3"
     ]
   ]
 }

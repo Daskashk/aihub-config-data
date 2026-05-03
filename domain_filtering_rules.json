@@ -1,5 +1,5 @@
 {
-  "version": "5.13.0",
+  "version": "5.14.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -328,6 +328,9 @@
     "mapleai": [
       "trymaple.ai",
       "billing.opensecret.cloud"
+    ],
+    "hackerai": [
+      "hacker.io"
     ]
   },
   "always_blocked_domains": {
