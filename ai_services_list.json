@@ -1,5 +1,5 @@
 {
-  "version": "5.14.0",
+  "version": "5.14.1",
   "ai_services": [
     [
       "ChatGPT",
@@ -528,7 +528,7 @@
     ],
     [
       "Hacker AI",
-      "https://hacker.io/",
+      "https://hacker.co/",
       "Freemium",
       "Not for privacy",
       "82C5C3"

@@ -1,5 +1,5 @@
 {
-  "version": "5.14.0",
+  "version": "5.14.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -330,7 +330,7 @@
       "billing.opensecret.cloud"
     ],
     "hackerai": [
-      "hacker.io"
+      "hacker.co"
     ]
   },
   "always_blocked_domains": {
