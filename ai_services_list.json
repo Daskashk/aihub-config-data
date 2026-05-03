@@ -1,5 +1,5 @@
 {
-  "version": "5.13.0",
+  "version": "5.13.1",
   "ai_services": [
     [
       "ChatGPT",
@@ -171,7 +171,7 @@
     ],
     [
       "Public AI",
-      "https://chat.publicai.co/",
+      "https://publicai.co/chat",
       "Free",
       "Privacy friendly",
       "FB2C36"
