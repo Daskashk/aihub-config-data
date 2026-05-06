@@ -1,5 +1,5 @@
 {
-  "version": "5.14.2",
+  "version": "5.15.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -331,6 +331,13 @@
     ],
     "hackerai": [
       "hackerai.co"
+    ],
+    "ellydee": [
+      "ellydee.ai",
+      "ellydee.b-cdn.net"
+    ],
+    "ruflo": [
+      "flo.ruv.io"
     ]
   },
   "always_blocked_domains": {

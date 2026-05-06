@@ -1,5 +1,5 @@
 {
-  "version": "5.14.2",
+  "version": "5.15.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -532,6 +532,20 @@
       "Freemium",
       "Not for privacy",
       "82C5C3"
+    ],
+    [
+      "Ellydee",
+      "https://ellydee.ai/",
+      "Freemium",
+      "Privacy focused",
+      "C58235"
+    ],
+    [
+      "RuFlo",
+      "https://flo.ruv.io/",
+      "Free",
+      "Privacy friendly",
+      "7DB1E6"
     ]
   ]
 }
