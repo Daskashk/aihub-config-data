@@ -1,5 +1,5 @@
 {
-  "version": "5.15.0",
+  "version": "5.16.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -546,6 +546,13 @@
       "Free",
       "Privacy friendly",
       "7DB1E6"
+    ],
+    [
+      "Reddit",
+      "https://www.reddit.com/answers",
+      "Freemium",
+      "Not for privacy",
+      "C82D33"
     ]
   ]
 }

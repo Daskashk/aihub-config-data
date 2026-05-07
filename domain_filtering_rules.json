@@ -1,5 +1,5 @@
 {
-  "version": "5.15.0",
+  "version": "5.16.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -338,6 +338,13 @@
     ],
     "ruflo": [
       "flo.ruv.io"
+    ],
+    "reddit": [
+      "reddit.com",
+      "redditstatic.com",
+      "redditmedia.com",
+      "preview.redd.it",
+      "www.google.com"
     ]
   },
   "always_blocked_domains": {
@@ -397,6 +404,9 @@
     ],
     "xunfeistarfire": [
       "dt.xfyun.cn"
+    ],
+    "reddit": [
+      "w3-reporting.reddit.com"
     ]
   },
   "common_auth_domains": [
