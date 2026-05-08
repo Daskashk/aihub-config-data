@@ -347,9 +347,8 @@
       "www.google.com"
     ],
     "copilot365": [
+      "microsoft.com",
       "m365.cloud.microsoft",
-      "www.microsoft.com",
-      "uhf.microsoft.com",
       "res.cdn.office.net",
       "res-stls-prod.edgesuite.net"
     ]
