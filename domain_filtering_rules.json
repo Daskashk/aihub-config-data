@@ -345,6 +345,13 @@
       "redditmedia.com",
       "preview.redd.it",
       "www.google.com"
+    ],
+    "copilot365": [
+      "m365.cloud.microsoft",
+      "www.microsoft.com",
+      "uhf.microsoft.com",
+      "res.cdn.office.net",
+      "res-stls-prod.edgesuite.net"
     ]
   },
   "always_blocked_domains": {
