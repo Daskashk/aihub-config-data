@@ -1,5 +1,5 @@
 {
-  "version": "5.16.0",
+  "version": "5.17.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -345,6 +345,12 @@
       "redditmedia.com",
       "preview.redd.it",
       "www.google.com"
+    ],
+    "copilot365": [
+      "microsoft.com",
+      "m365.cloud.microsoft",
+      "res.cdn.office.net",
+      "res-stls-prod.edgesuite.net"
     ]
   },
   "always_blocked_domains": {

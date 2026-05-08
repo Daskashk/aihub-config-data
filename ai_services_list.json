@@ -1,5 +1,5 @@
 {
-  "version": "5.16.0",
+  "version": "5.17.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -501,22 +501,22 @@
     [
       "Obscurify AI",
       "https://obscurify.ai/",
-      "Paid",
+      "Freemium",
       "Privacy focused",
       "00BC6D"
     ],
     [
       "Nano GPT",
       "https://nano-gpt.com/conversation/",
-      "Paid",
+      "Freemium",
       "Privacy friendly",
       "0794A9"
     ],
     [
       "Kagi",
       "https://kagi.com/assistant",
-      "Freemium",
-      "Privacy friendly",
+      "Paid",
+      "Privacy focused",
       "70AB64"
     ],
     [
@@ -553,6 +553,13 @@
       "Freemium",
       "Not for privacy",
       "C82D33"
+    ],
+    [
+      "Copilot 365",
+      "https://m365.cloud.microsoft/chat",
+      "Paid",
+      "Not for privacy",
+      "00A4EF"
     ]
   ]
 }
