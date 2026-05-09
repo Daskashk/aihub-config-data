@@ -34,15 +34,19 @@ Both files are versioned and automatically published to **GitHub Pages**.
   "version": "x.y.z",
   "ai_services": [
     [
-      "<Service Name>", // e.g. "AI Hub"
-      "<URL>", // e.g. "https://example.com/"
-      "<Pricing Model>", // "Free" | "Freemium" | "Paid"
-      "<Privacy Category>", // "Privacy focused" | "Privacy friendly" | "Not for privacy"
-      "<Colour Hex>" // e.g. "10A37F"
+      "<Service Name>",
+      "<URL>",
+      "<Pricing Model>",
+      "<Privacy Category>",
+      "<Colour Hex>"
     ]
   ]
 }
 ```
+
+- Pricing model is one of the following (case-sensitive): `"Free"`, `"Freemium"`, `"Paid"`.
+- Privacy category is one of the following (case-sensitive): `"Privacy focused"`, `"Privacy friendly"`, `"Not for privacy"`.
+- Colour is a 6-digit hex colour **without** `#` (e.g. `"10A37F"`).
 
 ### `domain_filtering_rules.json`
 
@@ -50,21 +54,21 @@ Both files are versioned and automatically published to **GitHub Pages**.
 {
   "version": "x.y.z",
   "service_domains": {
-    "<service id>": ["<domain>", ...]
+    "service1": ["example.com"]
   },
   "always_blocked_domains": {
-    "<service id>": ["<domain>", ...]
+    "service1": ["malicious.com"]
   },
-  "common_auth_domains": [
-    "<domain>", ...
-  ],
-  "tracking_params": ["param", ...]
+  "common_auth_domains": ["auth.example.com"],
+  "tracking_params": ["utm_source", "ref"]
 }
 ```
 
 - `service id` is the service name lower‑cased with spaces removed (e.g. `"aihub"`).
 - Adding `"example.com"` to `service_domains` automatically allows all subdomains (`www.example.com`, `abc.example.com`, etc.) in the AI Hub Android app.
 - Use `always_blocked_domains` to block specific subdomains that would otherwise be allowed.
+- Use `common_auth_domains` to block auth domains that would otherwise be allowed.
+- Use `tracking_params` to block specific query parameters that would otherwise be allowed.
 
 Both files carry a `version` field; the app uses it to detect updates.
 
