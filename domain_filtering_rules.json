@@ -375,7 +375,7 @@
       "internal-6.pubyar.com",
       "storage.googleapis.com",
       "unpkg.com"
-    ],
+    ]
   },
   "always_blocked_domains": {
     "chatgpt": [
