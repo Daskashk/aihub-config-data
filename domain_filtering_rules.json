@@ -366,7 +366,16 @@
       "bd-l7-online-tob-global-v6.s.vedcdnlb.com",
       "lf3-data.volccdn.com",
       "sx-common-v4.volcgtm.com"
-    ]
+    ],
+    "uncensoredai": [
+      "uncensored.com",
+      "media.chatuncensored.ai",
+      "worker.clerkprod-cloudflare.net",
+      "clerk.uncensored.com",
+      "internal-6.pubyar.com",
+      "storage.googleapis.com",
+      "unpkg.com"
+    ],
   },
   "always_blocked_domains": {
     "chatgpt": [
