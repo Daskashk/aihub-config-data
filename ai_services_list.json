@@ -1,5 +1,5 @@
 {
-  "version": "5.18.0",
+  "version": "5.19.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -567,6 +567,20 @@
       "Free",
       "Privacy friendly",
       "4A9F3A"
+    ],
+    [
+      "StepFun",
+      "https://www.stepfun.com/",
+      "Freemium",
+      "Not for privacy",
+      "AE8C61"
+    ],
+    [
+      "Uncensored AI",
+      "https://uncensored.com/ai",
+      "Freemium",
+      "Not for privacy",
+      "F672CD"
     ]
   ]
 }

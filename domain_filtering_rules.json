@@ -1,5 +1,5 @@
 {
-  "version": "5.18.0",
+  "version": "5.19.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -354,6 +354,27 @@
     ],
     "chatjimmy": [
       "chatjimmy.ai"
+    ],
+    "stepfun": [
+      "www.stepfun.com",
+      "chatapi.stepfun.com",
+      "static.stepfun.com",
+      "s2.zimgs.cn.w.alikunlun.com",
+      "static-favicon.basemind.com",
+      "ov-pic-all.bpmlt.com",
+      "lf3-data.volccdn.com.queniuso.com",
+      "bd-l7-online-tob-global-v6.s.vedcdnlb.com",
+      "lf3-data.volccdn.com",
+      "sx-common-v4.volcgtm.com"
+    ],
+    "uncensoredai": [
+      "uncensored.com",
+      "media.chatuncensored.ai",
+      "worker.clerkprod-cloudflare.net",
+      "clerk.uncensored.com",
+      "internal-6.pubyar.com",
+      "storage.googleapis.com",
+      "unpkg.com"
     ]
   },
   "always_blocked_domains": {
