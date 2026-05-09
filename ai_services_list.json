@@ -1,5 +1,5 @@
 {
-  "version": "5.17.0",
+  "version": "5.18.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -560,6 +560,13 @@
       "Paid",
       "Not for privacy",
       "00A4EF"
+    ],
+    [
+      "Chat Jimmy",
+      "https://chatjimmy.ai/",
+      "Free",
+      "Privacy friendly",
+      "4A9F3A"
     ]
   ]
 }
