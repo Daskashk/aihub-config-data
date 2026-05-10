@@ -381,6 +381,16 @@
       "gstatic.com",
       "www.google.com",
       "cdn.cloudflare.net",
+    ],
+    "spicychat": [
+      "spicychat.ai",
+      "nd-cms.b-cdn.net",
+      "fonts.googleapis.com",
+      "cdn.nd-api.com",
+      "prod.nd-api.com",
+      "etmzpxgvnid370fyp.a1.typesense.net",
+      "api.unisvg.com",
+      "api.simplesvg.com"
     ]
   },
   "always_blocked_domains": {
