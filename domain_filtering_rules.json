@@ -1,5 +1,5 @@
 {
-  "version": "5.19.0",
+  "version": "5.19.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -71,7 +71,11 @@
     ],
     "huggingchat": [
       "huggingface.co",
-      "token.awswaf.com"
+      "awswaf.com",
+      "hcaptcha.com",
+      "js.stripe.com",
+      "m.stripe.network",
+      "m.stripe.com"
     ],
     "metaai": [
       "meta.ai",
@@ -401,6 +405,9 @@
     ],
     "deepseek": [
       "hif-dliq.deepseek.com"
+    ],
+    "huggingchat": [
+      "edge.sdk.awswaf.com"
     ],
     "manus": [
       "metrics.manus.im"
