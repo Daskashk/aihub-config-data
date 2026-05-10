@@ -391,6 +391,10 @@
       "etmzpxgvnid370fyp.a1.typesense.net",
       "api.unisvg.com",
       "api.simplesvg.com"
+    ],
+    "payperq": [
+      "ppq.ai",
+      "fonts.googleapis.com"
     ]
   },
   "always_blocked_domains": {
