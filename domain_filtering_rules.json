@@ -375,6 +375,12 @@
       "internal-6.pubyar.com",
       "storage.googleapis.com",
       "unpkg.com"
+    ],
+    "morphic": [
+      "chat.morphic.sh",
+      "gstatic.com",
+      "www.google.com",
+      "cdn.cloudflare.net",
     ]
   },
   "always_blocked_domains": {
