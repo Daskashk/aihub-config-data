@@ -1,5 +1,5 @@
 {
-  "version": "5.19.1",
+  "version": "5.19.2",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -75,7 +75,8 @@
       "hcaptcha.com",
       "js.stripe.com",
       "m.stripe.network",
-      "m.stripe.com"
+      "m.stripe.com",
+      "cdnjs.cloudflare.com"
     ],
     "metaai": [
       "meta.ai",

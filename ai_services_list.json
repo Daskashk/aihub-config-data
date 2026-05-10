@@ -1,5 +1,5 @@
 {
-  "version": "5.19.0",
+  "version": "5.19.1",
   "ai_services": [
     [
       "ChatGPT",
@@ -108,7 +108,7 @@
     ],
     [
       "HuggingChat",
-      "https://huggingface.co/chat",
+      "https://huggingface.co/",
       "Freemium",
       "Privacy friendly",
       "FFFFFF"
