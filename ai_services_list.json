@@ -1,5 +1,5 @@
 {
-  "version": "5.19.1",
+  "version": "5.20.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -581,6 +581,13 @@
       "Freemium",
       "Not for privacy",
       "F672CD"
+    ],
+    [
+      "Minara",
+      "https://minara.ai/app/chat",
+      "Freemium",
+      "Not for privacy",
+      "A049D6"
     ]
   ]
 }
