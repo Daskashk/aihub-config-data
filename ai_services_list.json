@@ -583,11 +583,18 @@
       "F672CD"
     ],
     [
-      "Morphic/",
+      "Morphic",
       "https://chat.morphic.sh/",
       "Free",
       "Privacy focused",
       "000000"
-    ]
+    ],
+    [
+      "Spicychat",
+      "https://spicychat.ai/",
+      "Freemium",
+      "Not for privacy",
+      "0D5FB6"
+    ],
   ]
 }
