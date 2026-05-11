@@ -1,5 +1,5 @@
 {
-  "version": "5.20.0",
+  "version": "5.21.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -108,7 +108,7 @@
     ],
     [
       "HuggingChat",
-      "https://huggingface.co/chat",
+      "https://huggingface.co/",
       "Freemium",
       "Privacy friendly",
       "FFFFFF"
@@ -581,6 +581,13 @@
       "Freemium",
       "Not for privacy",
       "F672CD"
+    ],
+    [
+      "Minara",
+      "https://minara.ai/app/chat",
+      "Freemium",
+      "Not for privacy",
+      "A049D6"
     ],
     [
       "Morphic",
