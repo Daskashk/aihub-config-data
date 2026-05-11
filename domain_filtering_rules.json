@@ -1,5 +1,5 @@
 {
-  "version": "5.21.2",
+  "version": "5.21.3",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -90,7 +90,8 @@
       "chat.z.ai",
       "chatglm.cn",
       "alicdn.com",
-      "cdngslb.com"
+      "cdngslb.com",
+      "aliyuncs.com"
     ],
     "h2ogpte": [
       "h2ogpte.genai.h2o.ai",
@@ -470,7 +471,8 @@
       "w3-reporting.reddit.com"
     ],
     "zai": [
-      "analysis.chatglm.cn"
+      "analysis.chatglm.cn",
+      "sdk.rum.aliyuncs.com"
     ]
   },
   "common_auth_domains": [
