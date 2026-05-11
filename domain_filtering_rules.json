@@ -1,5 +1,5 @@
 {
-  "version": "5.20.0",
+  "version": "5.21.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -383,6 +383,24 @@
     ],
     "minara": [
       "minara.ai"
+    ],
+    "morphic": [
+      "chat.morphic.sh",
+      "www.google.com",
+      "cdn.cloudflare.net"
+    ],
+    "spicychat": [
+      "spicychat.ai",
+      "nd-cms.b-cdn.net",
+      "cdn.nd-api.com",
+      "prod.nd-api.com",
+      "etmzpxgvnid370fyp.a1.typesense.net",
+      "api.unisvg.com",
+      "api.simplesvg.com"
+    ],
+    "payperq": [
+      "ppq.ai",
+      "fonts.googleapis.com"
     ]
   },
   "always_blocked_domains": {
