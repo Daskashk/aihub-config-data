@@ -88,7 +88,14 @@
     ],
     "zai": [
       "chat.z.ai",
-      "z-cdn.chatglm.cn"
+      "z-cdn.chatglm.cn",
+      "g.alicdn.com",
+      "o.alicdn.com",
+      "cloudauth-device-dualstack.ap-southeast-1.aliyuncs.com",
+      "no8xfe.captcha-open-southeast.aliyuncs.com",
+      "z-cdn.chatglm.cn.w.cdngslb.com",
+      "o.alicdn.com.w.cdngslb.com",
+      "a1320.dscb.akamai.net"
     ],
     "h2ogpte": [
       "h2ogpte.genai.h2o.ai",
