@@ -1,5 +1,5 @@
 {
-  "version": "5.21.4",
+  "version": "5.21.5",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -42,7 +42,8 @@
     ],
     "claude": [
       "claude.ai",
-      "anthropic.com"
+      "anthropic.com",
+      "claudemcpcontent.com"
     ],
     "perplexity": [
       "perplexity.ai"
