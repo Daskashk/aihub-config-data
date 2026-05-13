@@ -7,6 +7,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/SilentCoderHere/aihub-config-data?style=for-the-badge&color=orange)](https://github.com/SilentCoderHere/aihub-config-data/commits/main)
 [![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSilentCoderHere%2Faihub-config-data%2Fmain%2Fai_services_list.json&query=%24.version&style=for-the-badge&label=Version&color=blueviolet)](https://github.com/SilentCoderHere/aihub-config-data)
 [![Total AI Services](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSilentCoderHere%2Faihub-config-data%2Fmain%2Fai_services_list.json&query=%24.ai_services.length&style=for-the-badge&label=Total%20AIs&color=brightgreen)](https://silentcoderhere.github.io/aihub-config-data/)
+[![Request New AI](https://img.shields.io/badge/Request%20New%20AI-blue?style=for-the-badge&labelColor=blue&logo=github)](https://github.com/SilentCoderHere/aihub/issues/new?template=request_new_ai.yml)
 
 ## 📖 About
 
