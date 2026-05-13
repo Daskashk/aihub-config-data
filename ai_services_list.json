@@ -1,5 +1,5 @@
 {
-  "version": "5.21.0",
+  "version": "5.22.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -609,6 +609,20 @@
       "Paid",
       "Privacy friendly",
       "FD3902"
+    ],
+    [
+      "Alice AI",
+      "https://alice.yandex.ru/",
+      "Free",
+      "Not for privacy",
+      "41B942"
+    ],
+    [
+      "Giga",
+      "https://giga.chat/",
+      "Freemium",
+      "Privacy friendly",
+      "BC8A41"
     ]
   ]
 }
