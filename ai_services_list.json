@@ -1,5 +1,5 @@
 {
-  "version": "5.22.0",
+  "version": "5.22.1",
   "ai_services": [
     [
       "ChatGPT",
@@ -618,7 +618,7 @@
       "41B942"
     ],
     [
-      "Giga",
+      "GigaChat",
       "https://giga.chat/",
       "Freemium",
       "Privacy friendly",

@@ -1,5 +1,5 @@
 {
-  "version": "5.22.0",
+  "version": "5.22.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -413,7 +413,7 @@
       "avatars.mds.yandex.net",
       "passport.yandex.ru"
     ],
-    "giga": [
+    "gigachat": [
       "giga.chat",
       "id.sber.ru"
     ]
