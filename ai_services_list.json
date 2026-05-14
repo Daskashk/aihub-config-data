@@ -1,5 +1,5 @@
 {
-  "version": "5.22.1",
+  "version": "5.22.2",
   "ai_services": [
     [
       "ChatGPT",
@@ -613,7 +613,7 @@
     [
       "Alice AI",
       "https://alice.yandex.ru/",
-      "Free",
+      "Freemium",
       "Not for privacy",
       "41B942"
     ],
