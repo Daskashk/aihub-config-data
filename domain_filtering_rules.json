@@ -423,6 +423,9 @@
     ],
     "freestockai": [
       "free.stockai.trade"
+    ],
+    "deepcogito": [
+      "chat.deepcogito.com"
     ]
   },
   "always_blocked_domains": {
